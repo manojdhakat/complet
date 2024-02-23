@@ -1,0 +1,805 @@
+@media screen and (max-width:1399px) {
+    #banner::after {
+        display: none;
+    }
+
+    #banner::before {
+        display: none;
+    }
+
+    .shape {
+        display: none;
+    }
+
+    .shape::after {
+        display: none;
+    }
+
+    .shape::before {
+        display: none;
+    }
+
+    #off::after {
+        display: none;
+    }
+
+    #off::before {
+        display: none;
+    }
+
+    #footer::after {
+        display: none;
+    }
+
+    #footer::before {
+        display: none;
+    }
+
+    .brand ul {
+        column-gap: 50px;
+    }
+
+    .john ul {
+        display: none;
+    }
+
+}
+
+
+
+
+
+
+
+@media screen and (max-width:1199px) {
+    .col-icons {
+        width: 32%;
+    }
+
+    .col-non {
+        width: 20%;
+    }
+
+    .non {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .sustain {
+        justify-content: center;
+    }
+
+    .col-journey {
+        width: 33.33%;
+    }
+
+    .journey {
+        justify-content: center;
+    }
+
+    .imp {
+        justify-content: center;
+        row-gap: 30px;
+    }
+
+    .ecosoul p {
+        font-size: 17px;
+        max-width: 491px;
+    }
+
+    .john {
+        padding: 25px 23px 19px 23px;
+    }
+
+    .john ul {
+        display: none;
+    }
+
+    .star ul {
+        display: flex;
+    }
+
+    .brand ul {
+        column-gap: 43px;
+    }
+
+    .col-food {
+        width: calc(33.33% - 20px);
+        text-align: center;
+    }
+
+    .insta {
+        justify-content: center;
+    }
+
+    .inpu h5 {
+        font-size: 16px;
+    }
+
+    .menu ul {
+        column-gap: 52px;
+    }
+
+    .papertext h3 {
+        font-size: 14px;
+    }
+
+    .cart button {
+        padding: 12px 7px;
+    }
+}
+
+@media screen and (max-width:1099px) {
+    .menu ul {
+        column-gap: 34px;
+    }
+
+    .shp {
+        justify-content: center;
+    }
+
+    .col-circ {
+        width: 20%;
+    }
+
+    .circ {
+        align-items: center;
+    }
+
+    .papertext h3 {
+        font-size: 14px;
+    }
+
+    .col-non {
+        width: 25%;
+    }
+
+    .col-ecosoul {
+        width: 100%;
+    }
+
+    .col-utube {
+        width: 100%;
+    }
+
+    .utube {
+        text-align: center;
+    }
+
+    .utube img {
+        width: 70%;
+    }
+
+    .ecosoul {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .ecosoul h2 {
+        text-align: center;
+    }
+
+    .ecosoul p {
+        font-size: 14px;
+        max-width: 468px;
+        text-align: center;
+    }
+
+    .love {
+        justify-content: center;
+    }
+
+    .col-john {
+        width: 100%;
+    }
+
+    .brand ul {
+        column-gap: 22px;
+    }
+
+    .inpu h5 {
+        font-size: 15px;
+    }
+
+    .cart button {
+        padding: 14px 4px;
+    }
+
+    .eco {
+        justify-content: center;
+    }
+}
+
+
+
+
+@media screen and (max-width:991px) {
+    .menu ul {
+
+        column-gap: 4px;
+    }
+
+    .menu ul li {
+        font-size: 14px;
+    }
+
+    .col-circ {
+        width: 33.33%;
+    }
+
+    h1 {
+        font-size: 45px;
+    }
+
+    .text {
+        padding: 100px 0;
+    }
+
+    .coll {
+        column-gap: 15px;
+        justify-content: center;
+    }
+
+    .col-home {
+        width: calc(50% - 15px);
+    }
+
+    .col-paper {
+        width: calc(33.33% - 26px);
+    }
+
+    .sell {
+        column-gap: 39px;
+        justify-content: center;
+    }
+
+
+    .paper ul {
+        display: none;
+    }
+
+    .col-non {
+        width: 33.33%;
+    }
+
+    .col-journey {
+        width: 50%;
+    }
+
+    .imp {
+        row-gap: 40px;
+    }
+
+
+    .eco {
+        row-gap: 30px;
+    }
+
+    .col-ecosoul {
+        width: 100%;
+    }
+
+    #eco {
+        padding: 80px 0px;
+    }
+
+    .ecosoul {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .ecosoul h2 {
+        text-align: center;
+    }
+
+    .ecosoul p {
+        text-align: center;
+    }
+
+    .col-utube {
+        width: 100%;
+    }
+
+    .utube {
+        text-align: center;
+    }
+
+    .utube img {
+        width: 70%;
+    }
+
+    .col-john {
+        width: 100%;
+    }
+
+    .john {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .brand ul {
+        flex-direction: column;
+        align-items: center;
+        row-gap: 25px;
+    }
+
+    .col-food {
+        width: calc(50% - 20px);
+    }
+
+    .off {
+        flex-wrap: wrap;
+    }
+
+    .group img {
+        width: 70%;
+    }
+
+    .col-group {
+        width: 100%;
+    }
+
+    .group {
+        text-align: center;
+    }
+
+    .col-inpu {
+        width: 100%;
+    }
+
+    .inpu {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .foot {
+        row-gap: 50px;
+    }
+
+    .col-soul {
+        width: 100%;
+    }
+
+    .soul {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+    .paperimag img {
+        object-fit: contain;
+    }
+
+    .col-paper {
+        width: 100%;
+    }
+
+    .sellitem {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .search {
+        width: 70% !important;
+        left: 30%;
+    }
+}
+
+
+
+@media screen and (max-width:767px) {
+    .col-text {
+        width: 100%;
+    }
+
+    .col-imag {
+        width: 100%;
+    }
+
+    .cimg {
+        display: flex;
+        justify-content: center;
+    }
+
+    .cimg img {
+        width: 70%;
+    }
+
+    .head {
+        flex-wrap: wrap;
+        display: flex;
+        row-gap: 10px;
+    }
+
+    .col-logo {
+        width: 100%;
+        order: 1;
+    }
+
+    .col-menu {
+        width: 50%;
+        order: 2;
+    }
+
+    .menu {
+        justify-content: center;
+        display: flex;
+    }
+
+    .col-icons {
+        width: 50%;
+        order: 2;
+    }
+
+    .icons {
+        justify-content: center;
+    }
+
+    .col-circ {
+        width: 50%;
+    }
+
+    .col-text {
+        width: 100%;
+    }
+
+    .menu .dropdown {
+        display: none !important;
+    }
+
+
+    .text {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 80px 0;
+    }
+
+    .col-imag {
+        width: 100%;
+    }
+
+    #banner {
+        padding-top: 10px;
+        margin-top: 74px;
+    }
+
+    .col-home {
+        width: 70%;
+    }
+
+    .home img {
+        width: 100%;
+    }
+
+    .paperbuton {
+        width: 40%;
+    }
+
+    .sell {
+        column-gap: 39px;
+        row-gap: 35px;
+    }
+
+    .col-non {
+        width: 50%;
+    }
+
+    .sustain {
+        row-gap: 35px;
+    }
+
+    .smiletext h4 {
+        font-size: 40px;
+    }
+
+    .smiletext h6 {
+        max-width: 166px;
+    }
+
+    .col-sho {
+        width: 50%;
+    }
+
+    .sho {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .cart button {
+        padding: 14px 16px;
+        font-size: 14px;
+    }
+
+    #off {
+        padding-bottom: 25px;
+    }
+
+    .search {
+        width: 100% !important;
+        left: unset;
+    }
+}
+
+@media screen and (max-width:575px) {
+    #shop {
+        margin-top: 40px;
+    }
+
+    #collection {
+        margin-top: 40px;
+    }
+
+    #best {
+        margin-top: 40px;
+    }
+
+    #our {
+        margin-top: 40px;
+    }
+
+    #impact {
+        margin-top: 40px;
+    }
+
+    #eco {
+        margin-top: 40px;
+        padding: 40px 0px;
+    }
+
+    #off {
+        margin-top: 40px;
+    }
+
+    #brands {
+        margin-top: 40px;
+        padding: 30px 0px;
+    }
+
+    #footer {
+        margin-top: 40px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    #insta {
+        margin-top: 40px;
+    }
+
+    .head {
+        row-gap: 15px;
+    }
+
+    .logo img {
+        width: 70%;
+    }
+
+    .bargar {
+        display: block;
+    }
+
+    .menu ul {
+        display: none;
+        position: absolute;
+        background: black;
+        width: 100%;
+        z-index: 1;
+        text-align: center;
+        top: 109px;
+        
+        right: 0;
+        padding: 20px;
+    }
+
+    .menu ul li {
+        padding: 15px 0px;
+    }
+
+    .menu ul li a {
+        color: white;
+
+
+    }
+
+
+    .fa-bars {
+        color: #00624E;
+        font-size: 20px;
+        padding-left: 15px;
+    }
+
+    .icons {
+        justify-content: center;
+    }
+
+    .col-circ {
+        width: 100%;
+    }
+
+    h1 {
+        font-size: 33px;
+    }
+
+    .text {
+        padding: 40px 0;
+    }
+
+    .col-text {
+        order: 2;
+    }
+
+    .col-dot {
+        order: 3;
+    }
+
+    .coll {
+        row-gap: 30px;
+    }
+
+    .col-home {
+        width: 65%;
+    }
+
+    .col-paper {
+        width: 100%;
+    }
+
+    .paperbuton {
+        width: 50%;
+    }
+
+    .col-non {
+        width: 100%;
+    }
+
+    .non h3 {
+        font-size: 22px;
+    }
+
+    .non p {
+        font-size: 20px;
+    }
+
+    .col-journey {
+        width: 100%;
+    }
+
+    .smiletext h6 {
+        max-width: 100%;
+    }
+
+    .eco {
+        flex-direction: column-reverse;
+    }
+
+    .ecosoul p {
+        max-width: 339px;
+    }
+
+    .col-john {
+        width: 100%;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
+
+    .col-food {
+        width: 100%;
+    }
+
+    .food img {
+        width: 50%;
+    }
+
+    .inpu h4 {
+        font-size: 30px;
+    }
+
+    .inpu h5 {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .inp {
+        background: none;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .inp button {
+        padding: 5px 5px;
+    }
+
+    .inp input {
+        padding: 10px;
+        width: 200px;
+    }
+
+    .col-sho {
+        width: 100%;
+    }
+
+    .brand ul {
+        row-gap: 30px;
+    }
+
+    .john {
+        padding: 2px 2px 2px 2px;
+    }
+
+    .off {
+        flex-direction: column-reverse;
+    }
+
+    .inpu {
+        padding-top: 40px;
+    }
+
+    .inp {
+        row-gap: 15px;
+    }
+
+    .group {
+        padding-top: 20px;
+    }
+
+    .cart button {
+        padding: 14px 20px;
+        font-size: 12px;
+    }
+
+    .journey {
+        justify-content: start;
+    }
+
+    .loveslider .slick-dots {
+        bottom: -27px;
+    }
+
+    .loveslider .slick-dots li button:before {
+        height: 7px;
+        width: 7px;
+        background: #00A551;
+        border-radius: 50%;
+    }
+
+    .loveslider .slick-dots li .slick-active {
+
+        border: 1px solid #00A551;
+        border-radius: 50%;
+    }
+}
+
+
+@media screen and (max-width:360px) {
+    .inst ul {
+        flex-direction: column;
+        align-items: center;
+        row-gap: 10px;
+    }
+
+    .text h6 {
+        text-align: center;
+    }
+
+    .cart button {
+        width: 100px;
+    }
+
+
+}

@@ -1,0 +1,701 @@
+@media screen and (max-width:1399px) {
+    .dropdown{
+        background-color: rgb(84, 154, 215) !important;
+        color: black !important;
+    }
+    .dropdown .sub-dropdown {
+        background-color: aliceblue !important;
+    }
+
+    .home_banner_text h1 {
+        font-size: 60px !important;
+        line-height: 70px !important;
+    }
+    .sidebar{top: 800px;}
+
+    .home_banner_text p {
+        font-size: 28px !important;
+        line-height: 39px !important;
+        padding: 11px 0 0 0 !important;
+    }
+
+    #header-top .phon {
+        display: none !important;
+    }
+
+    #header-top {
+        padding: 0;
+    }
+
+    .english {
+        display: none !important;
+    }
+
+    #header-buttom .menu {
+        background-color: rgb(255 255 255);
+        display: block;
+        padding: 0;
+        width: 100%;
+        width: 320px;
+        left: -320px;
+        transition: all ease .5s;
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        z-index: 9999999;
+    }
+
+    #header-buttom .menu>ul {
+        display: block;
+        border-right: 3px solid red;
+        overflow: auto;
+        height: calc(100% - 118px);
+        position: relative;
+    }
+
+    .menu>ul>li>a {
+        display: flex;
+        justify-content: space-between;
+        font-size: 17px;
+        padding: 20px 26px 20px 46px;
+    }
+
+    .menu ul li {
+        border-bottom: 2px solid #997c7c;
+    }
+
+    .dropdown>ul>li>a {
+        /* padding: 17px 83px; */
+        padding: 10px 25px;
+    }
+
+    .menu ul li:last-child {
+        border-bottom: none;
+    }
+
+    .control {
+        display: none !important;
+    }
+
+    .center-header::after {
+        display: none !important;
+    }
+
+    .center-header::before {
+        display: none !important;
+    }
+
+    #header-top {
+        border: none;
+    }
+
+    .submit {
+        display: none;
+    }
+
+    .get .fa-bars::after {
+        border: none !important;
+        position: static;
+        border-radius: 2px solid green !important;
+    }
+
+    #header-buttom {
+
+        position: absolute;
+        width: 100%;
+        left: 0;
+        top: 0;
+    }
+
+    .logo {
+        background-color: rgb(246, 246, 247);
+        padding: 28px;
+        height: 101px;
+    }
+
+    #header-top .phon>ul>li>a .fa-envelope {
+        padding: 3px 5px 0 0;
+    }
+
+    .logo-mobile {
+        padding: 0 0 20px 0;
+        /* background-color: rgb(246 246 247); */
+        /* height: 118px; */
+        /* border-right: 3px solid red; */
+        /* position: relative; */
+        z-index: 99999;
+    }
+
+    .logo-mobile img {
+        display: block;
+        padding: 48px 0 0 21px;
+
+    }
+
+    .toggle-bar img {
+        padding: 0 0 0 4px;
+        width: 27px;
+
+    }
+
+    .get .toggle-bar1 {
+        background: red;
+        padding: 20px;
+        color: white;
+    }
+
+    .get {
+        column-gap: 20px;
+        position: absolute;
+        right: 0;
+        top: 12px;
+        padding: 0;
+    }
+
+
+
+    .toggle-bar {
+        display: block !important;
+
+    }
+
+    #header-buttom .menu.show-menu {
+        position: fixed;
+        top: 0;
+        z-index: 3;
+        left: 0;
+    }
+
+    #header {
+        padding: 0;
+    }
+
+    .dropdown>ul>li>a .show-submenu {
+        display: block;
+    }
+
+    .menu>ul>li .dropdown {
+        position: static;
+        opacity: 1 !important;
+        visibility: visible !important;
+        width: 100%;
+        top: 0;
+        padding: 0;
+        display: none;
+    }
+
+    .menu>ul>li.show-submenu .dropdown {
+        display: block;
+    }
+
+    .menu>ul>li.show-submenu.dropdown>ul>li>a {
+        padding: 0;
+    }
+
+
+    .sidebar.crose {
+        display: none !important;
+    }
+
+    .sub-dropdown {
+        display: none !important;
+    }
+
+    li.show-submenu .sub-dropdown {
+        display: block !important;
+        background-color: transparent;
+    }
+
+    .dropdown .sub-dropdown>ul>li>a {
+        padding: 16px 10px 10px 90px;
+        color: brown;
+    }
+
+    .menu>ul>li>a .fa-angle-down.rotatetab {
+        transform: rotate(360deg);
+        padding: 0;
+    }
+
+    .menu>ul>li>a .fa-angle-down {
+        position: absolute;
+        left: 18px;
+        transform: rotate(270deg);
+        top: 23px;
+    }
+
+    .menu>ul>li>a .fa-angle-down .rotate {
+        transform: rotate(90deg) !important;
+        font-size: 90px;
+    }
+
+    .menu>ul>li>a .fa-plus {
+        display: block;
+    }
+
+    .menu>ul>li.manoj .dropdown {
+        display: block;
+    }
+    .menu>ul>li.manoj .fa-minus {
+        display: block;
+        width: 28px;
+        height: 30px;
+        height: 28px;
+        background: rgb(243, 243, 243);
+        border-radius: 50%;
+        padding: 5px 0 0 6px;
+    }
+
+    .menu>ul>li.manoj .fa-plus {
+        display: none;
+    }
+    .center-header {
+        position: static;
+    }
+
+    #our-popular {
+        margin-top: 20px;
+    }
+
+    .tisfied {
+
+        max-width: 683px;
+    }
+
+    .banner-through h1 {
+        font-size: 42px;
+        line-height: 56px;
+    }
+
+    .banner-through p {
+        color: #6C6C6A;
+        font-size: 18px;
+        line-height: 30px;
+        padding: 10px 0;
+    }
+
+    .banner-through {
+        max-width: 1360px;
+    }
+
+    .banner-through {
+        text-align: center;
+    }
+
+    .sati {
+        text-align: center;
+    }
+
+    .steps h3 {
+        max-width: 786px;
+        margin: 0 auto;
+
+    }
+
+    .steps p {
+
+        max-width: 1400px;
+    }
+
+    .steps {
+        text-align: center;
+    }
+
+    .true .fa-play {
+
+        padding: 16px 0 0 12px;
+
+    }
+
+    .force {
+        row-gap: 153px;
+    }
+
+    .sines {
+        font-size: 22px;
+        line-height: 31px;
+    }
+
+    .jhonnew h3 {
+        font-size: 17px;
+    }
+
+    .tray {
+        margin-top: 45px;
+    }
+
+    .view-All-Courses {
+        width: 200px;
+        height: 50px;
+        margin: 10px 0 0 0;
+    }
+
+    .courses {
+        font-size: 50px;
+        line-height: 65px;
+        text-align: center;
+        margin: 55px 0 35px 0
+    }
+
+    .opposed p {
+        font-size: 22px;
+        line-height: 35px;
+        padding: 10px 0;
+    }
+
+    .opposed h3 {
+        font-size: 25px;
+        line-height: 10px;
+    }
+
+    .opposed a {
+        font-size: 16px;
+        line-height: 1px;
+    }
+
+    .distribution h2 {
+        margin: 0 0 30px 0;
+        font-size: 45px;
+        line-height: 45px;
+    }
+
+    .enroll-text h3 {
+        font-size: 30px;
+        line-height: 45px;
+    }
+
+    .banner-among {
+        margin: 0 auto;
+    }
+
+    .banner-Regular {
+        top: 210px;
+        left: -116px;
+    }
+
+    .get-box {
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width:991px) {
+    .home_banner_text p {
+        line-height: 34px !important;
+        line-height: 40px !important;
+    }
+
+    .home_banner_text h1 {
+        font-size: 45px !important;
+        line-height: 55px !important;
+    }
+
+    .tisfied {
+        font-size: 25px;
+        line-height: 32px;
+    }
+
+    .steps h3 {
+        font-size: 45px;
+        line-height: 55px;
+
+    }
+
+    .sines {
+        font-size: 18px;
+        line-height: 23px;
+    }
+
+    .jhonnew h3 {
+        font-size: 14px;
+    }
+
+    .courses {
+        font-size: 45px;
+        line-height: 65px;
+        margin: 28px 0 -52px 0;
+    }
+
+    .opposed p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .opposed h3 {
+        font-size: 21px;
+        line-height: 30px;
+        padding: 0;
+    }
+
+    .opposed a {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .opposed img {
+        max-width: 125px;
+        height: 125px;
+    }
+
+    .enroll-text h3 {
+        font-size: 25px;
+        line-height: 40px;
+    }
+
+    .foote li a {
+        font-size: 14px;
+        line-height: 15px;
+        padding: 13px 19px;
+
+    }
+
+    .banner-through h1 {
+        font-size: 30px;
+        line-height: 36px;
+
+    }
+
+    .banner-Regular {
+        top: 188px;
+        right: -59px;
+    }
+
+    .yeelo {
+        margin: 40px 0 0 0;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .home_banner_text h1 {
+        font-size: 41px !important;
+    }
+
+    #home_banner img {
+        width: 100%;
+        height: 701px;
+        object-fit: cover;
+    }
+
+    .dropdown>ul>li>a {
+        padding: 17px 61px;
+    }
+
+    .just img {
+        width: 75%;
+    }
+
+    .steps h3 {
+        font-size: 35px;
+        line-height: 45px;
+
+    }
+
+    .enroll-text h3 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .foote li a {
+        font-size: 14px;
+        line-height: 15px;
+        padding: 13px 19px;
+        width: 144px;
+
+    }
+
+    #footer img {
+        height: 300px;
+    }
+
+    .teacher {
+        margin: 0 auto;
+        top: 274px;
+        z-index: 2;
+        left: 139px;
+
+    }
+
+    .banner-Progress {
+        margin: 0 auto;
+        left: 159px;
+        bottom: 73px;
+    }
+
+    .banner-Regular {
+        margin: 0 auto;
+        top: 600px;
+        right: -174px;
+        z-index: 2;
+    }
+
+    .banner-among::before {
+
+        height: 500px;
+        max-width: 500px;
+
+    }
+
+    .banner-among>img {
+        width: 495px;
+        padding: 0 0 0 37px;
+        height: 519px;
+
+    }
+
+    .banner-among {
+        max-width: 560px;
+        height: 560px;
+        padding: 10px;
+    }
+
+    #banner {
+        padding: 50px 0 230px 0;
+    }
+
+    .main-box {
+        left: 0;
+    }
+}
+
+@media screen and (max-width:575px) {
+    .home_banner_text h1 {
+        font-size: 29px !important;
+    }
+
+    .home_banner_text p {
+        line-height: 34px !important;
+    }
+
+    .dropdown .sub-dropdown>ul>li>a {
+        padding: 16px 10px 10px 55px;
+    }
+
+    .dropdown>ul>li>a {
+        padding: 17px 40px;
+    }
+
+    .jhonnew a {
+        line-height: 4px;
+    }
+
+    .courses {
+        font-size: 35px;
+        line-height: 40px;
+    }
+
+    .say {
+        row-gap: 20px;
+    }
+
+    .distribution h2 {
+        margin: 0 0 30px 0;
+        font-size: 30px;
+        line-height: 33px;
+    }
+
+    .banner-among>img {
+        width: 100%;
+        height: 368px;
+        padding: 7px 17px 0 25px;
+    }
+
+    .banner-among {
+        max-width: 403px;
+        height: 403px;
+
+    }
+
+    .banner-among::before {
+
+        height: 350px;
+        max-width: 350px;
+
+    }
+
+    .teacher {
+        top: 274px;
+        left: 58px;
+    }
+
+
+    .banner-Progress {
+        left: 71px;
+        bottom: -109px;
+    }
+
+    .banner-Regular {
+        top: 554px;
+        right: 25px;
+    }
+
+    #banner {
+        padding: 50px 0 300px 0;
+    }
+}
+
+
+@media screen and (max-width:479px) {
+    .home_banner_text h1 {
+        font-size: 35px !important;
+        line-height: 45px !important;
+    }
+
+    .microsoft {
+        justify-content: center;
+    }
+
+    .profile {
+        font-size: 22px;
+        line-height: 15px;
+    }
+
+    .teacher {
+        top: 306px;
+        left: -12px;
+    }
+
+    .hew {
+        margin: -7px 0 0 -9px;
+    }
+
+    .banner-Progress {
+        left: -10px;
+        bottom: -200px;
+
+    }
+
+    .banner-Regular {
+        top: 554px;
+        right: 25px;
+    }
+
+    .banner-among>img {
+        height: 269px;
+    }
+
+    .banner-among {
+        max-width: 303px;
+        height: 303px;
+
+    }
+
+    .banner-among::before {
+        height: 250px;
+        max-width: 250px;
+
+    }
+
+    #banner {
+        padding: 50px 0 390px 0;
+    }
+
+    .box h3 {
+        font-size: 20px;
+    }
+
+    .box {
+        height: 206px;
+    }
+
+    #footer img {
+        height: 350px;
+    }
+}

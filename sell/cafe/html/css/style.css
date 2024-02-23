@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+    background-color: #fff;
+}
+
+*{
+    border: none;
+    list-style: none;
+    text-decoration: none;
+    border: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+#header-main{
+    width: 100%;
+    display: inline-block;
+}
+
+.container{
+    width: 100%;
+    max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 15px;
+}
+
+.row{
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.header-top{
+    width: 100%;
+    display: inline-block;
+}
+
+.logo-col{
+    width: 20%;
+    float: left;
+    padding: 0 15px;
+}
+
+.logo{
+    width: 100%;
+    display: inline-block;
+}
+
+.logo img{
+    width: 200px;
+    height: 50px;
+    object-fit: contain;
+}
+
+.menu-col{
+    width: 80%;
+    float: left;
+    padding: 0 15px;
+}
+
+.menu{
+    width: 100%;
+    display: inline-block;
+    position: relative;
+}
+
+.menu .information{
+    width: 80%;
+    float: left;
+}
+
+.menu .appointment{
+    width: 20%;
+    float: right;
+}
+
+.icons{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+

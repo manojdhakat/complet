@@ -1,0 +1,418 @@
+@media screen and (max-width:1179px) {
+    .header-menu .menu-bar>ul>li {
+        padding: 0 18px;
+    }
+
+    .training-slider .slick-prev,
+    .slick-next {
+        display: none !important;
+    }
+
+    .serv-slide .slick-prev,
+    .slick-next {
+        display: none !important;
+    }
+
+    #banner-main::after {
+        height: 490px;
+    }
+
+    #banner-main::before {
+        height: 490px;
+    }
+
+    #banner-main {
+        height: 490px;
+    }
+
+    .banner-text {
+        padding: 220px 0;
+    }
+
+}
+
+@media screen and (max-width:991px) {
+    .banner-text h1 {
+        font-size: 35px;
+    }
+
+    .banner-text p {
+        font-size: 22px;
+    }
+
+    .banner-text {
+        padding: 156px 0;
+    }
+
+    .aspire-text p {
+        font-size: 20px;
+    }
+    .aspire-text {
+        padding: 83px 20px;
+    }
+
+    .aspire-pic img {
+        width: 300px;
+        height: 275px;
+    }
+
+    .aspire-pic {
+        padding: 110px 0;
+        margin-left: 72px;
+    }
+
+    .footer-top {
+        padding: 80px 0;
+    }
+
+    /* togglebar start */
+
+    .companies-btn {
+        display: none;
+    }
+
+    .toggle-bar {
+        display: block;
+        font-size: 25px;
+        position: absolute;
+        top: 110px;
+        right: 40px;
+        background: transparent;
+    }
+
+    .header-menu .menu-bar>ul {
+        display: none;
+        position: absolute;
+        top: 185px;
+        background: #E36024;
+        width: 250px;
+        height: 100%;
+        right: 0;
+        z-index: 111;
+    }
+
+    .header-menu .menu-bar>ul>li {
+        width: 100%;
+        text-align: left;
+        padding: 0;
+    }
+
+    .header-menu .menu-bar>ul>li a {
+        font-family: var(--rob-font);
+        font-size: 16px;
+        color: #fff;
+        font-weight: 400;
+        display: inline-block;
+        padding: 17px;
+        width: 100%;
+        padding-left: 16px;
+    }
+
+    .header-menu .menu-bar ul li:hover ul.dropdown {
+        display: none;
+    }
+
+    .header-menu .menu-bar ul li ul.dropdown {
+        display: none;
+        visibility: visible;
+        opacity: 1;
+        position: static;
+        width: 100%;
+        background-color: transparent;
+    }
+
+    .header-menu .menu-bar ul li.active ul.dropdown {
+        display: block;
+    }
+
+    .header-menu .menu-bar ul li ul.dropdown .sub-dropdown {
+        opacity: 1;
+        visibility: visible;
+        display: none;
+        width: 100%;
+    }
+
+    .header-menu .menu-bar ul li ul.dropdown li:hover .subdropdown{
+        display: none;
+    }
+
+ 
+
+    .toggle-bar .fa-times {
+        display: none;
+    }
+
+    .toggle-bar.open .fa-times {
+        display: block;
+    }
+
+    .toggle-bar.open .fa-bars {
+        display: none;
+    }
+
+    /* toggle bar end */
+    .header-menu .menu-bar ul li ul.dropdown li .subdropdown {visibility: visible;opacity: 1;display: none;}
+    .header-menu .menu-bar ul li ul.dropdown li.active .subdropdown {display: block;}
+
+}
+
+@media screen and (max-width:767px) {
+    .header-menu .menu-bar>ul {
+        top: 174px;
+    }
+    .header-bottom {
+        padding: 15px 0;
+    }
+
+    #banner-main {
+        height: 375px;
+    }
+
+    #banner-main::before {
+        height: 375px;
+    }
+
+    #banner-main::after {
+        height: 375px;
+        width: 100%;
+    }
+
+    .banner-text {
+        padding: 180px 0;
+    }
+
+    .banner-text h1 {
+        font-size: 32px;
+    }
+
+    .banner-text p {
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
+
+    .banner-text {
+        padding: 121px 0;
+    }
+
+    #aspire-main {
+        margin-top: 45px;
+        padding: 50px 0;
+    }
+
+    .aspire-pic img {
+        display: none;
+    }
+
+    .aspire-text-col {
+        width: 100%;
+    }
+
+    .aspire-text {
+        padding: 50px 16px;
+        margin-top: -190px;
+    }
+
+    .aspire-pic {
+        margin-left: 65px;
+    }
+
+    .aspire-text p {
+        font-size: 18px;
+        max-width: unset;
+        padding-bottom: 32px;
+    }
+
+    .aspire-text span a {
+        font-size: 18px;
+    }
+
+    #different-roles-main {
+        padding: 50px 0;
+    }
+
+    .roles-text h2 {
+        font-size: 27px;
+    }
+
+    .roles-text p {
+        line-height: unset;
+        padding: 16px 0;
+    }
+
+    .online-card-text {
+        padding: 14px 18px 20px 12px;
+    }
+
+    #training-main {
+        padding: 50px 0;
+    }
+
+    .training-text h2 {
+        font-size: 27px;
+    }
+
+    .training-text p {
+        line-height: unset;
+        padding: 16px 0;
+    }
+
+    .futer-re {
+        width: 50%;
+    }
+
+    .footer-top {
+        padding: 50px 0;
+    }
+
+}
+
+@media screen and (max-width:575px) {
+    .header-menu .menu-bar>ul {
+        top: 135px;
+    }
+    .toggle-bar {
+        top: 92px;
+    }
+
+    .contact-text {
+        padding: 3px 0;
+        text-align: left;
+    }
+
+    .header-logo img {
+        width: 85px;
+        height: 45px;
+        object-fit: contain;
+    }
+
+    .header-bottom {
+        padding: 8px 0;
+    }
+
+    .contact-text ul li img {
+        width: 20px;
+        height: 15px;
+        object-fit: contain;
+    }
+
+    .contact-text ul li {
+        padding-right: 12px;
+    }
+
+    .roles-text {
+        text-align: unset;
+    }
+
+    .training-text {
+        text-align: unset;
+    }
+
+    #banner-main {
+        height: 275px;
+    }
+
+    #banner-main::before {
+        height: 275px;
+    }
+
+    #banner-main::after {
+        height: 275px;
+        width: 29px;
+        background: #0000004a;
+    }
+
+    .banner-text h1 {
+        font-size: 25px;
+    }
+
+    .banner-text p {
+        font-size: 16px;
+        margin-bottom: 15px;
+        padding: 5px 0;
+    }
+
+    .banner-text a {
+        padding: 8px 10px;
+    }
+
+    .banner-text {
+        padding: 79px 0;
+    }
+
+    .aspire-text p {
+        font-size: 16px;
+        padding-bottom: 15px;
+    }
+
+    .aspire-text {
+        padding: 5px 16px;
+    }
+
+    #aspire-main {
+        margin-top: 15px;
+        padding: 30px 0;
+    }
+
+    #different-roles-main {
+        padding: 30px 0;
+    }
+
+    .roles-text h2 {
+        font-size: 22px;
+    }
+
+    .roles-text p {
+        padding: 6px 0;
+        font-size: 16px;
+    }
+
+    .customer-m {
+        margin-top: 15px;
+    }
+
+    .training-text h2 {
+        font-size: 22px;
+    }
+
+    .training-text p {
+        font-size: 16px;
+        padding: 6px 0;
+    }
+
+    #training-main {
+        padding: 30px 0;
+    }
+
+    .training-card-m {
+        margin-top: 15px;
+    }
+
+    .futer-re {
+        width: 100%;
+    }
+
+    .future-text ul {
+        margin-top: 15px;
+    }
+
+    .future-text h3 {
+        font-size: 22px;
+        padding: 11px 0;
+    }
+
+    .footer-bottom {
+        padding: 15px 0;
+    }
+
+    .bottom-text p {
+        font-size: 15px;
+    }
+
+    .mobile-re {
+        width: 100%;
+    }
+
+    .social-links ul li {
+        padding: 0 5px;
+    }
+}

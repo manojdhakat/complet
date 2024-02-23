@@ -1,0 +1,1483 @@
+@media screen and (max-width:1679px) {
+    .team {
+        justify-content: center;
+    }
+
+    #working {
+        margin-top: 30px;
+    }
+
+    .app-img-main img {
+        width: 100%;
+        height: 488px;
+    }
+
+    .pink-section {
+        max-width: 99%;
+    }
+
+    .menu {
+        max-width: 99%;
+    }
+
+    .main {
+        margin-top: 30px;
+    }
+
+    .visit-main {
+        max-width: 99%;
+    }
+
+    .working-img {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:1479px) {
+    .nav-main ul li a {
+        font-size: 17px;
+    }
+
+    .buttons-group button {
+        font-size: 20px;
+    }
+
+    .nav-main ul li {
+        padding: 0 16px;
+    }
+
+    .menu {
+        max-width: 99%;
+    }
+
+    .product-main h2 {
+        font-size: 52px;
+    }
+
+    .choose-text h3 {
+        font-size: 27px;
+    }
+
+    .choose-text p {
+        font-size: 16px;
+        padding-top: 0px;
+        line-height: 18px;
+    }
+
+    .amout::before {
+        width: 40px;
+        height: 40px;
+        left: 17px;
+    }
+
+    .amout::after {
+        width: 23px;
+        height: 30px;
+        bottom: -1px;
+        left: 25px;
+    }
+
+    .menu-fruit img {
+        width: 140px;
+    }
+
+    .amout a {
+        font-size: 18px;
+    }
+
+    .choose-text {
+        padding-left: 15px;
+    }
+
+    .amout {
+        padding-left: 15px;
+        width: 100px;
+    }
+
+    .menu-fruit {
+        padding-top: 32px;
+    }
+
+    .subscribe-main input {
+        width: 344px;
+        font-size: 18px;
+    }
+
+    .subscribe-main button {
+        font-size: 19px;
+        padding: 0 20px 0 20px;
+    }
+
+    .working-img {
+        width: 99%;
+        background: #ececfb !important;
+        border-radius: 12px;
+    }
+
+    .col-text-left {
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .weeks {
+        background: #FA9601;
+        padding: 50px;
+        margin-top: 70px;
+    }
+
+    .col-text-right {
+        width: 100%;
+        padding: 0 15px;
+        margin-top: 50px;
+    }
+
+    .text-right-main {
+        display: flex;
+        justify-content: center;
+        align-items: end;
+    }
+
+    .text-right-main button {
+
+        background-color: #FA9601;
+        margin-bottom: 0;
+        cursor: pointer;
+    }
+
+    .text-left-main img {
+        width: 280px;
+        height: 280px;
+        object-fit: contain;
+    }
+
+    .text-left-main img {
+        width: 280px;
+        height: 280px;
+        object-fit: contain;
+    }
+}
+
+@media screen and (max-width:1199px) {
+    .nav-main ul li {
+        padding: 0 8px;
+    }
+
+    .nav-main ul li a {
+        font-size: 16px;
+    }
+
+    .buttons-group button {
+        font-size: 17px;
+        padding: 8px 16px 8px 16px;
+    }
+
+    .buttons-group span.chart img {
+        width: 37px;
+        height: 31px;
+    }
+
+    .buttons-group span.chart::after {
+        right: -12px;
+        width: 22px;
+        height: 22px;
+    }
+
+    .banner-img {
+        background-position: -250px center;
+    }
+
+    .about-main h2 {
+        font-size: 48px;
+    }
+
+    .about-main p {
+        font-size: 21px;
+    }
+
+    .about-main .destop {
+
+        font-size: 20px;
+    }
+
+    .visitor-main::after {
+        right: -25px;
+    }
+
+    .visitor-main h2 {
+        font-size: 44px;
+        padding-left: 57px;
+    }
+
+    .visitor-main h4 {
+        font-size: 19px;
+    }
+
+    .apps-main h4 {
+        font-size: 27px;
+    }
+
+    .apps-main h2 {
+        font-size: 42px;
+        line-height: 58px;
+    }
+
+    .apps-main p {
+        font-size: 20px;
+        line-height: 28px;
+    }
+
+    .apps-main button {
+        padding: 10px 18px 11px 0;
+        font-size: 18px;
+    }
+
+    .newsletter-text-main {
+        padding-top: 90px;
+    }
+
+    .newsletter-text-main h2 {
+        font-size: 49px;
+        line-height: 61px;
+        padding-top: 22px;
+    }
+
+    .newsletter-text-main p {
+        font-size: 20px;
+    }
+
+    .subscribe-main {
+        margin-top: 40px;
+    }
+
+    .subscribe-main input {
+        width: 287px;
+        font-size: 16px;
+        padding-left: 20px;
+        height: 50px;
+    }
+
+    .subscribe-main button {
+        font-size: 17px;
+        padding: 0 15px 0 15px;
+        height: 50px;
+    }
+
+}
+
+@media screen and (max-width:1023px) {
+    .nav-main ul li {
+        padding: 0 7px;
+    }
+
+    .nav-main .social-icons li {
+        padding: 0 10px;
+    }
+
+    .buttons-group button {
+        font-size: 16px;
+        padding: 6px 14px 6px 14px;
+    }
+
+    .buttons-group span.chart {
+        margin-left: 35px;
+        cursor: pointer;
+    }
+
+    .buttons-group span.chart img {
+        width: 33px;
+        height: 27px;
+    }
+
+    .buttons-group span.chart::after {
+        right: -9px;
+        width: 18px;
+        height: 18px;
+        top: 2px;
+    }
+
+    .banner-text h4 {
+        font-size: 31px;
+    }
+
+    .banner-text h1 {
+        font-size: 68px;
+    }
+
+    .banner-text-main {
+        top: 314px;
+    }
+
+    .feature-main h2 {
+        font-size: 50px;
+    }
+
+    .col-feature-img {
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    .col-feature-text {
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    .feature {
+        height: 100%;
+    }
+
+    .visitor-main h2 {
+        font-size: 38px;
+        padding-left: 57px;
+        padding-top: 50px;
+    }
+
+    .visitor-main h4 {
+        font-size: 18px;
+    }
+
+    .apps-main h4 {
+        font-size: 25px;
+    }
+
+    .apps-main h2 {
+        font-size: 40px;
+        line-height: 54px;
+    }
+
+    .apps-main p {
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    .apps-main button {
+        padding: 10px 14px 11px 0;
+        font-size: 16px;
+        margin-top: 50px;
+    }
+
+    .apps-main .play {
+        margin-left: 22px;
+    }
+
+    .newsletter-text-main {
+        padding-top: 80px;
+    }
+
+    .newsletter-text-main h4 {
+        font-size: 28px;
+    }
+
+    .newsletter-text-main h2 {
+        font-size: 46px;
+        line-height: 60px;
+        padding-top: 13px;
+    }
+
+    .newsletter-text-main p {
+        font-size: 18px;
+        padding-top: 30px;
+    }
+
+    .subscribe-main {
+        margin-top: 30px;
+    }
+
+    .subscribe-main input {
+        width: 271px;
+        font-size: 15px;
+        height: 45px;
+    }
+
+    .subscribe-main button {
+        font-size: 15px;
+        padding: 0 15px 0 15px;
+        height: 45px;
+    }
+
+    .col-newsletter-img img {
+        height: 516px;
+    }
+
+    .footer-logo-main h3 {
+        font-size: 32px;
+        line-height: 39px;
+    }
+
+    .footer-logo-main p {
+        font-size: 17px;
+        line-height: 24px;
+        padding-top: 20px;
+    }
+
+    .contact-main h3 {
+        font-size: 32px;
+        line-height: 39px;
+    }
+
+    .contact-main ul li a {
+        font-size: 17px;
+        line-height: 24px;
+    }
+
+    .icons ul li a img {
+        width: 35px;
+        height: 38px;
+        object-fit: contain;
+    }
+
+    .icons ul li {
+        padding: 0 20px;
+    }
+
+    .gallery-main h3 {
+        font-size: 32px;
+        line-height: 39px;
+        padding-top: 59px;
+    }
+
+    .visit-main {
+        max-width: 99%;
+    }
+
+}
+
+@media screen and (max-width:991px) {
+    #header-main {
+        top: 0;
+    }
+    .nav-main ul {
+        overflow: scroll;
+        height: 200px;
+        flex-direction: column;
+    }
+
+    .pink-section {
+        max-width:100%;
+        border-radius:0;
+    }
+    #header-main.sticky {
+       
+        animation:forwards;}
+    .about-img {
+        height: 900px;
+    }
+
+    .buttons-group button.menu-bar {
+        display: block;
+    }
+
+    .primary-nav {
+        position: fixed;
+        top: 117px;
+        background-color: #fff;
+        box-shadow: 0 5px 10px #ddd;
+        text-align: left;
+        width: 100%;
+        z-index: 9999;
+        animation: side-scroll 0.5s;
+        display: none;
+        right: 0;
+    }
+
+    .nav-main.open .primary-nav {
+        display: block;
+
+    }
+
+
+    .nav-main ul.social-icons {
+        flex-direction: row;
+        padding: 40px 22px;
+    }
+
+    .nav-main ul.social-icons li a {
+        font-size: 25px;
+        color: #FA9601;
+    }
+
+    @keyframes side-scroll {
+        0% {
+            transform: translateX(-100px);
+        }
+
+        100% {
+            transform: translateX(0);
+        }
+    }
+
+    .nav-main button.menu-bar {
+        margin-left: 40px;
+        padding: 0;
+        padding-top: 42px;
+        height: 60px;
+    }
+
+    .nav-main ul li {
+        display: block;
+        padding: 10px;
+        padding-left: 22px;
+    }
+
+    .nav-main .menu-bar {
+        width: 40px;
+        background-color: transparent;
+        position: relative;
+        transition: all 0.5s;
+    }
+
+    .nav-main .menu-bar span {
+        width: 40px;
+        background-color: #000;
+        display: inline-block;
+        height: 3px;
+        position: relative;
+        transition: 0.5s;
+    }
+
+    .nav-main .menu-bar::before {
+        position: absolute;
+        content: "";
+        top: 17px;
+        left: 0;
+        width: 40px;
+        height: 3px;
+        background-color: #000;
+    }
+
+    .nav-main .menu-bar::after {
+        position: absolute;
+        content: "";
+        top: 30px;
+        left: 0px;
+        width: 40px;
+        height: 3px;
+        background-color: #000;
+    }
+
+    .nav-main .menu-bar {
+        display: unset;
+    }
+
+    .nav-main .menu-bar:hover {
+        background-color: transparent;
+    }
+
+    .open .menu-bar span {
+        display: none;
+    }
+
+    .open .menu-bar::after {
+        transform: rotate(45deg);
+        transition: 0.5s;
+        top: 29px;
+    }
+
+    .open .menu-bar::before {
+        transform: rotate(-45deg);
+        transition: 0.5s;
+        top: 29px;
+    }
+
+    .over .overlay {
+        display: unset;
+    }
+
+    .col-visitor {
+        width: 50%;
+        padding: 0 15px;
+    }
+
+    .visitor-main:nth-child(2)::after {
+        display: none;
+    }
+
+    .col-apps {
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    .col-app-img {
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    .svg-img {
+        display: none;
+    }
+
+    .apps-main {
+        padding-top: 50px;
+        border-top: 5px dotted #fff;
+        margin-top: 50px;
+    }
+
+    .app-img-main img {
+        width: 100%;
+        height: auto;
+    }
+
+    .menu {
+        max-width: 98%;
+        height: auto;
+
+    }
+
+    .col-menu-fruit {
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    .menu-fruit {
+        margin-top: 30px;
+    }
+
+    .amout {
+        padding-left: 15px;
+        width: 71px;
+    }
+
+    .col-newsletter-text {
+        width: 100%;
+    }
+
+    .col-newsletter-img {
+        width: 100%;
+    }
+
+    .col-newsletter-img img {
+        height: auto;
+        width: 100%;
+    }
+
+    .newsletter-text-main {
+        padding-top: 70px;
+    }
+
+    .newsletter-text-main h4 {
+        font-size: 26px;
+    }
+
+    .newsletter-text-main h2 {
+        font-size: 42px;
+        line-height: 53px;
+    }
+
+    .newsletter-text-main p {
+        font-size: 17px;
+        padding-top: 27px;
+    }
+
+    .footer-logo-main h3 {
+        font-size: 28px;
+        line-height: 35px;
+    }
+
+    .footer-logo-main p {
+        font-size: 18px;
+        line-height: 23px;
+        padding-top: 15px;
+        max-width: 900px;
+        margin: 0 auto;
+    }
+
+    .contact-main h3 {
+        font-size: 28px;
+        line-height: 35px;
+    }
+
+    .contact-main ul li a img {
+        padding-right: 12px;
+    }
+
+    .contact-main ul li a {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .icons ul li a img {
+        width: 30px;
+        height: 34px;
+        object-fit: contain;
+    }
+
+    .gallery-main h3 {
+        font-size: 28px;
+        line-height: 35px;
+        padding-top: 58px;
+    }
+
+    .footer-logo-main {
+        padding-top: 50px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .contact-main {
+        padding-top: 169px;
+        width: 50%;
+    }
+
+    .gallery-main {
+        width: 50%;
+    }
+
+    .icons {
+        text-align: center;
+    }
+
+    .icons ul {
+        justify-content: center;
+    }
+
+    .col-newsletter-svg {
+        display: none;
+    }
+
+    #footer {
+        border-top: 5px dotted #ffffff;
+    }
+
+    .cafe-main {
+        border-top: 5px dotted #ffff;
+        padding-top: 12px;
+        margin-top: 50px;
+        padding-top: 50px;
+    }
+
+    .feature-img-main img {
+        width: 60%;
+        margin: 0 auto;
+        display: flex;
+    }
+
+    .feature {
+        background-position: bottom;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .banner-img {
+        height: 885px;
+    }
+
+    .banner-text h4 {
+        font-size: 28px;
+    }
+
+    .banner-text h1 {
+        font-size: 60px;
+        line-height: 82px;
+    }
+
+    .banner-text h3 {
+        font-size: 37px;
+    }
+
+    .mouse {
+        width: 115px;
+        height: 115px;
+    }
+
+    .mouse a img {
+        width: 28px;
+        height: 56px;
+    }
+
+    #restaurant {
+        width: 99%;
+    }
+
+    .feature-main h2 {
+        font-size: 45px;
+    }
+
+    .feature {
+        height: 100%;
+    }
+
+    .feature-main {
+        padding-top: 90px;
+    }
+
+    .choose-item-content h3 {
+        font-size: 33px;
+    }
+
+    .choose-item-content p {
+        font-size: 19px;
+        padding-top: 15px;
+    }
+
+    .restaurant-img-main button {
+        width: 120px;
+        height: 120px;
+    }
+
+    .app-img-main img {
+        width: 100%;
+        height: auto;
+    }
+
+    #our-menu {
+        padding-top: 60px;
+    }
+
+    .product-main h2 {
+        font-size: 51px;
+    }
+
+    .text-left-main img {
+        width: 260px;
+        height: 260px;
+    }
+
+    .text-left-main h2 {
+        font-size: 46px;
+    }
+
+    .weeks h4 {
+        font-size: 20px;
+        font-weight: 700;
+    }
+
+    .weeks h4 span {
+        font-size: 21px;
+        line-height: 21px;
+        padding-top: 15px;
+    }
+
+    .weeks h4 span {
+        font-size: 22px;
+        padding-top: 13px;
+    }
+
+    .newsletter-text-main {
+        text-align: center;
+    }
+
+    .newsletter-text-main h4::after {
+        left: -38px;
+    }
+
+    .apps-main {
+        text-align: center;
+    }
+
+    .apps-main h4::after {
+        left: 5px;
+        display: inline-block;
+    }
+}
+
+@media screen and (max-width:599px) {
+    .about-main h2 {
+        font-size: 36px;
+    }
+
+    .banner-text-main {
+        top: 254px;
+    }
+
+    .banner-text h4 {
+        font-size: 25px;
+    }
+
+    .banner-text h1 {
+        font-size: 54px;
+        line-height: 68px;
+    }
+
+    .banner-text h3 {
+        font-size: 30px;
+        line-height: 41px;
+    }
+
+    .banner-text button {
+        font-size: 21px;
+    }
+
+    .feature-main {
+        padding-top: 80px;
+    }
+
+    .feature-main h2 {
+        font-size: 35px;
+        padding-top: 15px;
+    }
+
+    .feature-main p {
+        font-size: 21px;
+        line-height: 18px;
+        padding-top: 15px;
+    }
+
+    .choose-item-content h3 {
+        font-size: 29px;
+    }
+
+    .choose-item-content p {
+        font-size: 18px;
+        padding-top: 10px;
+        padding-bottom: 38px;
+    }
+
+    #restaurant {
+        width: 98%;
+    }
+
+    .restaurant-img-main button {
+        width: 85px;
+        height: 85px;
+    }
+
+    .visitor-main h2 {
+        font-size: 35px;
+        padding-left: 57px;
+        padding-top: 42px;
+    }
+
+    .visitor-main h4 {
+        font-size: 16px;
+    }
+
+    .apps-main h2 {
+        font-size: 38px;
+        line-height: 49px;
+    }
+
+    .app-img-main img {
+        width: 100%;
+        height: auto;
+    }
+
+    #our-menu {
+        padding-top: 50px;
+    }
+
+    .product-main h4 {
+        font-size: 28px;
+    }
+
+    .product-main h2 {
+        line-height: 50px;
+        font-size: 40px;
+        padding-top: 18px;
+    }
+
+    .product-main p {
+        font-size: 21px;
+        padding-top: 11px;
+    }
+
+    .menu-fruit img {
+        width: 135px;
+    }
+
+    .choose-text h3 {
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    .choose-text p {
+        font-size: 15px;
+        padding-top: 0px;
+        line-height: 18px;
+    }
+
+    .amout {
+        padding-left: 15px;
+        width: 100px;
+    }
+
+    .amout a {
+        font-size: 16px;
+    }
+
+    .amout::before {
+        width: 30px;
+        height: 30px;
+        left: 17px;
+    }
+
+    .amout::after {
+        width: 19px;
+        height: 23px;
+        bottom: -1px;
+        left: 22px;
+    }
+
+    .view-btn {
+        font-size: 20px;
+        margin-top: 94px;
+        margin: 62px auto;
+    }
+
+    .contact-main {
+        padding-top: 84px;
+        width: 50%;
+    }
+
+    .contact-main h3 {
+        font-size: 26px;
+        line-height: 35px;
+    }
+
+    .contact-main ul li a {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .icons {
+        padding-top: 28px;
+    }
+
+    .icons ul li a img {
+        width: 25px;
+        height: 29px;
+    }
+
+    .gallery-main h3 {
+        font-size: 26px;
+        line-height: 35px;
+        padding-top: 27px;
+    }
+
+    .gallery-img {
+        padding-top: 0px;
+    }
+
+    .mouse {
+        width: 100px;
+        height: 100px;
+        margin-top: -50px;
+    }
+
+    .mouse a img {
+        width: 30px;
+        height: 50px;
+    }
+
+    .text-left-main img {
+        width: 230px;
+        height: 230px;
+    }
+
+    .text-left-main h2 {
+        font-size: 37px;
+    }
+
+    .weeks {
+        margin-top: 40px;
+        padding: 31px;
+    }
+
+    .weeks h4 {
+        font-size: 16px;
+    }
+
+    .weeks h4 span {
+        font-size: 19px;
+        padding-top: 13px;
+    }
+
+    .working-img {
+        height: auto;
+        padding-bottom: 50px;
+    }
+
+    .text-right-main button {
+        font-size: 18px;
+        line-height: 27px;
+        padding: 7px 18px 7px 21px;
+        margin-bottom: 0;
+    }
+
+    .working-img {
+        width: 98%;
+    }
+
+    .arrows li button {
+        margin-top: -37px;
+    }
+
+
+    .home-img {
+        height: 820px;
+    }
+
+
+
+}
+
+@media screen and (max-width:479px) {
+    #header-main {
+        padding: 10px 0;
+    }
+
+    .logo-main a img {
+        height: 100px;
+        object-fit: contain;
+    }
+
+    .nav-main {
+        padding-top: 20px;
+    }
+
+    .banner-img {
+        height: 813px;
+    }
+
+    .banner-text-main {
+        top: 218px;
+    }
+
+    .banner-text h4 {
+        font-size: 17px;
+    }
+
+    .banner-text h1 {
+        font-size: 43px;
+        line-height: 48px;
+    }
+
+    .banner-text h3 {
+        font-size: 32px;
+        line-height: 40px;
+    }
+
+    .banner-text button {
+        width: 157px;
+        height: 47px;
+        font-size: 17px;
+    }
+
+    .feature-main {
+        padding-top: 65px;
+    }
+
+    .feature-main h2 {
+        font-size: 26px;
+        padding-top: 5px;
+        line-height: 30px;
+    }
+
+    .feature-main p {
+        font-size: 15px;
+        line-height: 17px;
+        padding-top: 5px;
+    }
+
+    .choose-item-content h3 {
+        font-size: 22px;
+    }
+
+    .choose-item-content p {
+        font-size: 15px;
+        padding-top: 10px;
+        padding-bottom: 25px;
+        line-height: 20px;
+    }
+
+    .about-main h2 {
+        font-size: 26px;
+    }
+
+    .about-main h4 {
+        font-size: 25px;
+    }
+
+    .restaurant-img-main button {
+        width: 50px;
+        height: 50px;
+    }
+
+    .visitor-main h2 {
+        font-size: 28px;
+        padding-top: 35px;
+        padding-left: 50px;
+    }
+
+    .visitor-main h4 {
+        font-size: 10px;
+        padding-top: 0px;
+        line-height: 9px;
+        padding-left: 50px;
+    }
+
+    .visitor-main:nth-child(1)::after {
+        display: none;
+    }
+
+    .visitor-main:nth-child(3)::after {
+        display: none;
+    }
+
+    .apps-main h2 {
+        font-size: 35px;
+        line-height: 46px;
+        padding-top: 23px;
+    }
+
+    .apps-main p {
+        font-size: 16px;
+        line-height: 25px;
+        padding-top: 20px;
+    }
+
+    .apps-main button {
+        padding: 7px 11px 7px 0;
+        font-size: 15px;
+        margin-top: 50px;
+    }
+
+    .app-img-main img {
+        width: 100%;
+        height: auto;
+    }
+
+    .menu-fruit {
+        margin-top: 15px;
+    }
+
+    .menu-fruit img {
+        width: 95px;
+    }
+
+    .choose-text h3 {
+        font-size: 16px;
+        line-height: 21px;
+    }
+
+    .choose-text p {
+        font-size: 11px;
+        padding-top: 0px;
+        line-height: 13px;
+    }
+
+    .amout {
+        padding-left: 15px;
+        width: 121px;
+    }
+
+    .amout a {
+        font-size: 14px;
+    }
+
+    .amout::before {
+        width: 26px;
+        height: 25px;
+        left: 17px;
+        bottom: 3px;
+    }
+
+    .amout::after {
+        width: 15px;
+        height: 19px;
+        bottom: 2px;
+        left: 22px;
+    }
+
+    #our-menu {
+        padding-top: 40px;
+    }
+
+    .product-main h4 {
+        font-size: 25px;
+    }
+
+    .product-main h2 {
+        line-height: 33px;
+        font-size: 29px;
+        padding-top: 11px;
+    }
+
+    .product-main p {
+        font-size: 15px;
+        padding-top: 5px;
+    }
+
+    .view-btn {
+        font-size: 16px;
+        margin: 37px auto;
+        padding: 10px 35px 10px 35px;
+        line-height: 20px;
+    }
+
+    .newsletter-text-main {
+        padding-top: 50px;
+        /* text-align: center; */
+    }
+
+    .newsletter-text-main h4 {
+        font-size: 22px;
+        padding-left: 0;
+    }
+
+    .newsletter-text-main h2 {
+        font-size: 37px;
+        line-height: 44px;
+        padding-top: 10px;
+    }
+
+    .newsletter-text-main p {
+        font-size: 16px;
+        padding-top: 19px;
+        line-height: 25px;
+    }
+
+    .subscribe-main {
+        margin-top: 23px;
+    }
+
+    .subscribe-main input {
+        width: 196px;
+        font-size: 13px;
+        height: 35px;
+        padding-left: 15px;
+    }
+
+    .subscribe-main button {
+        font-size: 14px;
+        padding: 0 15px 0 15px;
+        height: 36px;
+    }
+
+    .col-newsletter-img img {
+        height: auto;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .contact-main {
+        width: 100%;
+    }
+
+    .gallery-main {
+        width: 100%;
+    }
+
+    .apps-main h4 {
+        padding-left: 0;
+    }
+
+    .about-main {
+        text-align: center;
+    }
+
+    .about-main h4 {
+        padding-left: 0;
+    }
+
+    .about-main p {
+        padding-left: 0;
+    }
+
+    .about-main .destop {
+        padding-left: 0;
+    }
+
+    .about-main button {
+        margin-left: 0;
+    }
+
+    .cafe-main a {
+        font-size: 14px;
+    }
+
+    .mouse {
+        width: 80px;
+        height: 80px;
+        margin-top: -39px;
+    }
+
+    .mouse a img {
+        width: 21px;
+        height: 37px;
+    }
+
+    .navbar-col {
+        width: 65%;
+        padding: 0 15px;
+    }
+
+    .logo-col {
+        width: 35%;
+        padding: 0 15px;
+    }
+
+    .buttons-group button {
+        font-size: 13px;
+        padding: 6px 7px 6px 7px;
+        line-height: 21px;
+    }
+
+    .buttons-group span.chart {
+        margin-left: 8px;
+    }
+
+    .buttons-group span.chart::after {
+        right: -9px;
+        width: 18px;
+        height: 18px;
+        top: -4px;
+    }
+
+    .nav-main button.menu-bar {
+        margin-left: 25px;
+    }
+
+    .buttons-group span.chart img {
+        width: 27px;
+        height: 26px;
+    }
+
+    .text-left-main img {
+        width: 190px;
+        height: 190px;
+    }
+
+    .text-left-main h2 {
+        font-size: 34px;
+        padding-top: 24px;
+    }
+
+    .weeks {
+        margin-top: 25px;
+        padding: 12px;
+    }
+
+    .weeks h4 {
+        font-size: 12px;
+    }
+
+    .weeks h4 span {
+        font-size: 13px;
+        padding-top: 4px;
+    }
+
+    .text-left-main .weeks img {
+        width: 51px;
+        height: 51px;
+    }
+
+    .col-text-right {
+        margin-top: 39px;
+    }
+
+    .text-right-main button {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 7px 18px 7px 21px;
+        margin-bottom: 0;
+    }
+
+    .working-img {
+        padding-bottom: 39px;
+    }
+
+    .contact-main ul li a {
+        font-size: 14px;
+        line-height: 18px;
+    }
+}

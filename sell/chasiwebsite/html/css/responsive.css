@@ -1,0 +1,1104 @@
+@media screen and (max-width:1199px){
+    .agri-text:after {
+        left: 556px;
+    }
+    .border-le {
+        right: 12px;
+    }
+    .text-tom h3 {
+        font-size: 15px;
+    }
+}
+@media screen and (max-width:1679px) {
+    .shapes-tomato img {
+        width: 140px;
+        height: 140px;
+    }
+}
+
+@media screen and (max-width:1599px) {
+    #banner-main {
+        height: 584px;
+    }
+
+    .shapes-carrot {
+        display: none;
+    }
+
+    .shapes-tomato {
+        display: none;
+    }
+
+    form.m-form {
+        display: flex;
+    }
+
+    /* .subscribe-form input {
+        width: 80%;
+        padding-left: 0;
+        margin-right: 0;
+    } */
+
+    .subscribe-form button {
+        width: 30%;
+    }
+}
+
+@media screen and (max-width:1399px) {
+    /* .subscribe-form input {
+        margin-right: 156px;
+    } */
+
+    #banner-main {
+        background-position: bottom;
+    }
+
+    #summer-main {
+        margin-top: -11px;
+    }
+
+    .f-basket img {
+        width: 100%;
+    }
+
+    .f-basket::after {
+        width: 88%;
+    }
+}
+
+@media screen and (max-width:1179px) {
+    .found-card {
+        padding: 15px;
+    }
+    .left-quote {
+        width: 0;
+    }
+    .get-btn {
+        width: 110px;
+        height: 45px;
+    }
+
+    .menu ul li {
+        padding: 0 9px;
+    }
+
+    #banner-main {
+        height: 450px;
+    }
+
+    .ban-text {
+        padding: 60px 0;
+    }
+
+    .ban-text h1 {
+        font-size: 50px;
+    }
+
+    .ban-text p {
+        font-size: 17px;
+        padding-bottom: 16px;
+        padding-top: 4px;
+    }
+
+    .summer-box {
+        gap: 10px;
+    }
+
+    .mango-pic img {
+        height: 150px;
+        object-fit: contain;
+    }
+
+    #summer-main {
+        margin-bottom: 95px;
+    }
+
+    .f-basket::after {
+        top: 22px;
+        width: 390px;
+        height: 259px;
+    }
+
+    .f-basket img {
+        width: 458px;
+        height: 340px;
+    }
+
+    .f-basket::after {
+        top: 22px;
+        left: 30px;
+        width: 390px;
+        height: 259px;
+    }
+
+    /* .text-tom button {
+        width: 120px;
+        height: 40px;
+    } */
+
+    .fruit-card-col {
+        width: 33.3%;
+    }
+
+    .blueberry-sc {
+        display: none;
+    }
+
+    .found-card-col {
+        width: 50%;
+    }
+
+    /* .subscribe-form input {
+        margin-right: 26px;
+    } */
+
+    .fruit-text h5 {
+        font-size: 12px;
+    }
+
+    .m-of-fru {
+        column-gap: 7px;
+    }
+
+    .para-of-card p {
+        max-width: none;
+    }
+}
+
+/* 991px screen */
+@media screen and (max-width:991px) {
+    .header-bottom {
+        padding: 5px 0;
+    }
+
+    .header-top {
+        display: none;
+    }
+
+    /* dropdown responsive work start */
+    .menu-bar .fa-times {
+        display: none;
+    }
+
+    .menu-bar.open .fa-times {
+        display: block;
+    }
+
+    .menu-bar.open .fa-bars {
+        display: none;
+    }
+
+    .menu-bar {
+        font-size: 30px;
+        background: transparent;
+        display: block;
+        position: absolute;
+        top: 20px;
+        right: 46px;
+    }
+
+    .menu-bar .fa-times {
+        color: #000;
+    }
+
+    .menu>ul {
+        display: none;
+        position: fixed;
+        top: 65px;
+        background-color: #fff;
+        width: 320px;
+        height: 100vh;
+        right: 0;
+        padding: 60px 10px;
+        overflow-x: scroll;
+        z-index: 1111;
+    }
+
+    .menu>ul>li {
+        border-bottom: 1px solid#ddd;
+    }
+
+    .menu>ul>li>a {
+        padding: 7px 10px;
+        color: #000;
+        /* padding-bottom: 5px; */
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .menu ul li:hover ul.dropdown {
+        display: none;
+    }
+
+    .menu ul li ul.dropdown {
+        display: none;
+        visibility: visible;
+        opacity: 1;
+        position: static;
+        width: 100%;
+        background-color: transparent;
+    }
+
+    .menu ul li.active ul.dropdown {
+        display: block;
+    }
+
+    .menu ul li ul.dropdown .sub-dropdown {
+        opacity: 1;
+        visibility: visible;
+        display: none;
+        width: 100%;
+        position: static;
+    }
+
+    .menu ul li ul.dropdown li:hover .subdropdown {
+        display: none;
+    }
+
+    /* .menu ul li ul.dropdown li .subdropdown {
+        visibility: visible;
+        opacity: 1;
+        display: none;
+        position: static;
+        width: 100%;
+    } */
+
+    .menu ul li ul.dropdown li.active .subdropdown {
+        display: block;
+    }
+
+    .menu>.active {
+        color: #000;
+    }
+
+    .menu ul li a:hover {
+        display: none;
+    }
+
+    /* dropdown responsive work start */
+
+    .menu {
+        order: 2;
+    }
+
+    .col-logo {
+        width: 45%;
+        padding: 0 15px;
+    }
+
+    .col-menu {
+        width: 15%;
+    }
+
+    .but-col {
+        width: 40%;
+        padding: 0 15px;
+    }
+
+    .logo img {
+        width: 140px;
+        height: 50px;
+        object-fit: cover;
+    }
+
+    .get-btn {
+        width: 100px;
+        height: 38px;
+        font-size: 15px;
+    }
+
+    .m-form {
+        display: flex;
+    }
+
+    /* .subscribe-form input {
+        width: 65%;
+        border: none;
+        margin: 0;
+    } */
+
+    .subscribe-form button {
+        width: 40%;
+    }
+
+    .ban-text h1 {
+        font-size: 38px;
+    }
+
+    .f-basket::after {
+        top: 68px;
+        width: 280px;
+        height: 180px;
+    }
+
+    .f-basket img {
+        width: 335px;
+        height: 340px;
+    }
+
+    .package-text h2 {
+        font-size: 30px;
+    }
+
+    .apple-card-col {
+        width: 50%;
+    }
+
+    .add-card-col {
+        width: 50%;
+    }
+
+    .fruit-card-col {
+        width: 50%;
+    }
+
+    /* .subscribe-form input {
+        margin-right: 12px;
+    } */
+
+    .foot-content-col {
+        width: 50%;
+    }
+
+    .foot-content-four ul li{
+        padding: 2px 2px;
+    }
+
+    .foot-content-four ul li img {
+        width: 100%;
+        height: 80px;
+        object-fit: cover;
+    }
+
+    /* .foot-content-four ul {
+        gap: 5px;
+    } */
+
+    .weekend {
+        margin-right: 9px;
+        width: 80px;
+        height: 80px;
+    }
+
+    .package-text h2 {
+        font-size: 25px;
+    }
+
+    .subscribe-btn h2 {
+        font-size: 22px;
+    }
+
+    .agri-text:after {
+        left: 414px;
+    }
+
+    .organic-text h2 {
+        font-size: 28px;
+        line-height: 34px;
+        padding-bottom: 8px;
+    }
+
+    .organic-text h3 {
+        line-height: 24px;
+        padding-bottom: 13px;
+    }
+
+    #organic-main {
+        padding-top: 60px;
+        padding-bottom: 55px;
+    }
+
+    .count-content-col {
+        width: 50%;
+    }
+
+    .tablet-sc{
+        display: none;
+    }
+
+    .count-content {
+        margin-bottom: 30px;
+    }
+
+    #counter-work-main{
+        padding-top: 60px;
+        padding-bottom: 55px;
+    }
+
+    .price {
+        top: 13px;
+    }
+
+}
+
+/* 991px screen end */
+/*767px screen start */
+
+@media screen and (max-width:767px) {
+    .summer-box {
+        flex-direction: column;
+        padding: 20px 0 30px;
+    }
+    .mango-pic img {
+        height: 180px;
+    }
+    .summer-box-col {
+        width: 100%;
+    }
+
+    .mango-text {
+        margin-left: 0px;
+        text-align: center;
+    }
+    .mango-text p {
+        margin: 0 auto;
+    }
+    .mango-text a {
+        margin: 0 auto;
+    }
+
+    .ban-text h2 {
+        font-size: 22px;
+        font-weight: 500;
+    }
+
+    .mango-text h5 {
+        font-size: 18px;
+    }
+
+    .banner-text-col {
+        width: 100%;
+    }
+
+    .ban-text p {
+        font-size: 16px;
+        padding-bottom: 30px;
+        line-height: 22px;
+    }
+
+    .mango-text h3 {
+        font-size: 20px;
+    }
+
+    .shipping-pic {
+        margin-top: -85px;
+    }
+
+    .shipping-pic img {
+        height: 400px;
+    }
+
+    .track-text p {
+        padding: 5px 0;
+    }
+
+    .shipping-pic-col {
+        width: 100%;
+    }
+
+    .shipping-content-col {
+        width: 100%;
+    }
+
+    .shipping-content {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-top: 30px;
+    }
+
+    #vegetable-product-main {
+        padding: 40px 0;
+    }
+
+    .green-card-m {
+        margin-top: 30px;
+    }
+
+    .apple-text {
+        padding: 10px 5px 10px 5px;
+    }
+
+    .btn-view-m button {
+        font-size: 14px;
+        width: 160px;
+        height: 45px;
+    }
+
+    .btn-view-m button span {
+        font-size: 16px;
+    }
+
+    .veg-product h2 {
+        font-size: 22px;
+    }
+
+    .veg-product p {
+        padding: 8px 0;
+    }
+
+    #package-main {
+        padding: 40px 0;
+    }
+
+    .package-text h2 {
+        font-size: 22px;
+    }
+
+    .package-text p {
+        padding-top: 5px;
+        margin-bottom: 18px;
+    }
+
+    .weekend h3 {
+        font-size: 24px;
+    }
+
+    .weekend h4 {
+        font-size: 14px;
+    }
+
+    .package-text button {
+        font-size: 14px;
+        width: 160px;
+        height: 45px;
+        margin-top: 4px;
+    }
+
+    .package-text button span {
+        font-size: 16px;
+    }
+
+    .f-basket-col {
+        width: 100%;
+    }
+
+    .package-text-col {
+        width: 100%;
+    }
+
+    .f-basket {
+        display: flex;
+        justify-content: center;
+    }
+
+    .f-basket::after {
+        top: 2px;
+        width: 100%;
+        height: 313px;
+        left: 0px;
+    }
+
+    .package-text {
+        margin-top: 30px;
+    }
+
+    .f-basket img {
+        width: 100%;
+        height: 340px;
+        object-fit: contain;
+    }
+
+    .price {
+        top: -26px;
+        left: -30px;
+    }
+
+    #organic-product-main {
+        padding: 40px 0;
+    }
+
+    .gan-product h2 {
+        font-size: 22px;
+    }
+
+    .gan-product p {
+        padding: 8px 0;
+    }
+
+    .pic-tom img {
+        height: 110px;
+    }
+
+    .add-card {
+        flex-direction: column;
+    }
+
+    .text-tom {
+        width: 100%;
+        text-align: center;
+    }
+
+    .text-tom ul {
+        padding: 8px 0;
+        margin: 0 auto;
+    }
+
+    .text-tom a {
+        margin: 0 auto;
+    }
+
+    .price-cart {
+        margin-bottom: 10px;
+    }
+
+    #fruitsproduct-main {
+        background-color: #f8fafe;
+        padding: 40px 0 60px;
+    }
+
+    .fruits-text h2 {
+        font-size: 22px;
+    }
+
+    .fruits-text p {
+        padding: 7px 0;
+    }
+
+    .text-fruit h3 {
+        padding-bottom: 8px;
+    }
+
+    #client-say-main {
+        padding: 40px 0;
+    }
+
+    .client-text h2 {
+        font-size: 22px;
+    }
+
+    .client-text p {
+        padding: 7px 0;
+    }
+
+    .founders-m {
+        margin-top: 20px;
+    }
+
+    .para-of-card {
+        padding-top: 16px;
+    }
+
+    .left-quote {
+        display: flex;
+        justify-content: end;
+        width: 271px;
+    }
+
+    .subscribe-btn-col {
+        width: 100%;
+    }
+
+    .subscribe-form-col {
+        width: 100%;
+    }
+
+    .subscribe-form {
+        margin-top: 20px;
+    }
+
+    .para-of-card p {
+        max-width: none;
+    }
+
+    .ban-text h1 {
+        font-size: 30px;
+    }
+
+    #banner-main {
+        height: 360px;
+    }
+
+    .ban-text {
+        padding: 70px 0;
+    }
+
+    .text-fruit {
+        padding: 8px 0 15px;
+    }
+
+    .fruit-card img {
+        width: 100%;
+        height: 130px;
+        object-fit: contain;
+    }
+
+    .offer-p span {
+        padding: 5px 12px;
+    }
+
+    #summer-main {
+        margin-top: 40px;
+    }
+    .footer-top {
+        padding: 40px 0;
+    }
+    .ban-text a {
+        padding: 13px 30px;
+        font-size: 14px;
+    }
+
+    .get-btn {
+        display: none;
+    }
+
+    .respons-btn {
+        display: block;
+        margin-top: 18px;
+    }
+
+    .respons-btn a {
+        font-family: var(--robot);
+        font-size: 15px;
+        font-weight: 700;
+        color: #fff;
+        width: 135px;
+        height: 45px;
+        background-color: #ffb11f;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 3px
+    }
+
+    .agri-text:after {
+        left: 336px;
+    }
+
+    .organic-picture-col {
+        width: 100%;
+    }
+
+    .organic-text-col {
+        width: 100%;
+    }
+
+    .organic-text p {
+        max-width: unset;
+    }
+
+    .oraganic-picture img {
+        height: 380px;
+    }
+
+    .organic-text {
+        margin-top: 20px;
+    }
+
+    #agricul-main{
+        padding-top: 80px;
+        padding-bottom: 75px;
+    }
+}
+
+@media screen and (max-width:575px) {
+    #banner-main {
+        height: 300px;
+    }
+    .ban-text {
+        padding: 40px 0;
+    }
+    .f-basket img {
+        height: 310px;
+    }
+    .f-basket::after {
+        top: 32px;
+        width: 100%;
+        height: 254px;
+        left: 11px;
+    }
+    .summer-box {
+        flex-direction: column;
+        padding: 20px 0;
+    }
+
+    .mango-text {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        margin-left: unset;
+    }
+
+    .mango-text p {
+        text-align: center;
+    }
+
+    .weekend {
+        width: 80px;
+        height: 70px;
+    }
+    .weekend h4 {
+        font-size: 14px;
+    }
+
+    .m-form {
+        flex-direction: column;
+    }
+/* 
+    .subscribe-form input {
+        width: 100%;
+    } */
+
+    .subscribe-form button {
+        width: 100%;
+    }
+
+    .ban-text h2 {
+        font-size: 22px;
+    }
+
+    .ban-text h1 {
+        font-size: 25px;
+    }
+
+    .ban-text p {
+        font-size: 14px;
+    }
+
+    .ban-text a {
+        width: 160px;
+        height: 50px;
+    }
+
+    .mango-text h3 {
+        font-size: 22px;
+    }
+
+    .mango-text h3 {
+        padding: 4px 0;
+    }
+
+    #vegetable-product-main {
+        padding: 40px 0;
+    }
+
+    .main-c {
+        padding-bottom: 15px;
+        column-gap: 12px;
+    }
+
+    .veg-product h2 {
+        font-size: 22px;
+    }
+
+    .veg-product p {
+        padding: 2px 0;
+        font-size: 15px;
+    }
+
+    .apple-card-col {
+        width: 100%;
+    }
+
+    .f-basket::after {
+        top: -6px;
+        left: -20px;
+    }
+
+    .price {
+        top: -6px;
+        left: -20px;
+    }
+
+    .package-text {
+        margin-top: 10px;
+    }
+
+    .package-text h2 {
+        font-size: 22px;
+    }
+
+    .package-text p {
+        padding-top: 4px;
+        margin-bottom: 13px;
+    }
+
+    .weekend h3 {
+        font-size: 20px;
+    }
+
+    #organic-product-main {
+        padding: 40px 0;
+    }
+
+    .gan-product h2 {
+        font-size: 22px;
+    }
+
+    .gan-product p {
+        padding: 2px 0;
+        font-size: 15px;
+    }
+
+    .add-card-col {
+        width: 100%;
+    }
+
+    .text-tom {
+        padding: 10px 0;
+    }
+
+    .text-tom ul {
+        padding: 13px 0;
+    }
+
+    #fruitsproduct-main {
+        padding: 40px 0 80px;
+    }
+
+    .fruits-text h2 {
+        font-size: 22px;
+    }
+
+    .fruits-text p {
+        padding: 2px 0;
+        font-size: 15px;
+    }
+
+    .fruit-card-col {
+        width: 100%;
+    }
+
+    #client-say-main {
+        padding: 40px 0;
+    }
+
+    .client-text h2 {
+        font-size: 22px;
+    }
+
+    .client-text p {
+        padding: 2px 0;
+        font-size: 15px;
+    }
+
+    #newsletter-main {
+        padding: 40px 0;
+    }
+
+    .subscribe-btn h2 {
+        font-size: 22px;
+    }
+
+    .footer-top {
+        padding: 40px 0;
+    }
+
+    .foot-content-col {
+        width: 100%;
+    }
+
+    .foot-content ul li a {
+        line-height: 35px;
+    }
+
+    .foot-content ul {
+        margin-top: 25px;
+    }
+
+    .foot-content {
+        margin-bottom: 20px;
+        border-bottom: 1px solid gray;
+        padding-bottom: 10px;
+    }
+
+    .foot-content-three {
+        margin-bottom: 22px;
+        border-bottom: 1px solid gray;
+        padding-bottom: 21px;
+    }
+
+    .foot-content-four ul li img {
+        width: 125px;
+    }
+    .price span::after {
+        width: 80px;
+        height: 80px;
+    }
+    .price {
+        top: -30px;
+        left: -40px;
+        width: 70px;
+        height: 70px;
+    }
+
+    .agri-text:after {
+        left: 240px;
+    }
+
+    .count-content-col {
+        width: 100%;
+    }
+    .border-le {
+        display: none;
+    }
+
+    .agri-text h2 {
+        font-size: 25px;
+    }
+
+    .organic-text h2 {
+        font-size: 22px;
+    }
+    .organic-text a {
+        margin-top: 10px;
+    }
+    .count-content h2 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .oraganic-picture img {
+        height: 300px;
+    }
+    #organic-main {
+        padding-top: 40px;
+        padding-bottom: 25px;
+    }
+    #counter-work-main {
+        padding-top: 40px;
+        padding-bottom: 25px;
+    }
+}
+
+@media screen and (max-width:479px) {
+    .menu-bar {
+        right: 59px;
+    }
+    .mango-pic img {
+        height: 120px;
+    }
+    .summer-box {
+        padding: 13px 0;
+    }
+    .shipping-pic img {
+        height: 310px;
+    }
+    .package-text ul {
+        flex-direction: column;
+    }
+    .weekend {
+        width: 290px;
+        height: 70px;
+    }
+    .sahajahan-pic img {
+        width: 70px;
+        height: 70px;
+    }
+    .sahajahan-text h4{
+        font-size: 18px;
+    }
+    .para-of-card p{
+        font-size: 15px;
+    }
+    .para-of-card p {
+        max-width: 210px;
+    }
+    .ban-text p {
+        padding-bottom: 20px;
+        line-height: 16px;
+    }
+    .bottom-text p {
+        font-size: 12px;
+    }
+    
+}

@@ -1,0 +1,711 @@
+@media screen and (max-width:1199px) {
+    #banner {
+        padding: 153px 0 182px 0;
+    }
+    .col-magna {
+        width: 100%;
+    }
+
+    .col-nostrud {
+        width: 50%;
+    }
+
+    .col-veni {
+        width: 50%;
+    }
+
+    .magna {
+        max-width: 575px;
+        margin: 0 auto;
+        text-align: center;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .magna ul li {
+        padding: 0;
+    }
+
+    .magna h3 {
+        max-width: 570px;
+    }
+
+    .lamco {
+        padding: 40px 0 0 0;
+    }
+
+    #magna {
+        overflow: hidden;
+    }
+
+    .exercit ul li a {
+        line-height: 30px;
+    }
+
+    .col-cloth {
+        width: 33.3%;
+    }
+}
+
+@media screen and (max-width:991px) {
+    .col-card {
+        width: 50%;
+    }
+    #contact_lina{
+        height: 1160px;
+        
+    }
+    .magna h3 {
+        font-size: 38px;
+    }
+
+    .col-menu {
+        width: 100%;
+    }
+
+    .leadership {
+        display: none;
+    }
+
+    .menu ul {
+        position: absolute;
+        top: 41px;
+        left: 0;
+        padding: 33px 0 188px 42px;
+        width: 100%;
+        background-color: #000;
+        display: none;
+        transition: all .5s;
+        height:400px;
+        z-index: 9;
+        overflow: scroll;
+    }
+
+    .menu a {
+        color: #fff;
+    }
+
+    .menu ul li {
+        padding: 30px 0;
+    }
+
+    .menu ul.loop {
+        display: block;
+    }
+
+    .icon {
+        align-items: center;
+        position: absolute;
+        right: 0;
+    }
+
+    .toggle_bar {
+
+        display: block;
+    }
+
+    .menu .fa-bars {
+        display: block;
+    }
+
+    .banner-text h1 {
+        font-size: 38px;
+        line-height: 46px;
+        padding: 0;
+    }
+
+    .dolor {
+        max-width: 350px;
+        height: 350px;
+    }
+
+    .dolor img {
+        margin: -47px 0 0 -33px;
+        height: 479px;
+    }
+
+    .banner-text p {
+        line-height: 26px;
+        padding: 8px 0;
+    }
+
+    #banner {
+        padding: 100px 0 182px 0;
+    }
+
+    .free h3 {
+        font-size: 17px;
+    }
+
+    .col-minim {
+        width: 33.3%;
+    }
+
+    .latext p {
+        padding: 0;
+    }
+
+    .col-lina {
+        width: 100%;
+        text-align: center;
+    }
+
+    .col-nsequa {
+        width: 100%;
+        text-align: center;
+    }
+
+    .lina {
+        margin: 0 auto;
+    }
+
+    .nsequa ul {
+        justify-content: center;
+    }
+
+    .veniam {
+        justify-content: center;
+    }
+
+    .veniam ul {
+        justify-content: center;
+    }
+
+    .Jeans ul {
+        justify-content: center;
+    }
+
+    .nsequa ul li {
+        font-size: 48px;
+    }
+
+    .nsequa p {
+        max-width: 556px;
+        margin: 0 auto;
+    }
+
+    .accessories {
+        flex-wrap: wrap;
+    }
+
+    .Men ul {
+        padding: 0;
+    }
+
+    .col-latext {
+        width: 100%;
+        text-align: center;
+        margin: -50px 0 0 0;
+    }
+
+    .access {
+        padding: 120px 0 0 0;
+    }
+
+    .col-Men {
+        width: 100%;
+        text-align: center;
+    }
+
+    .Men {
+        max-width: 100%;
+    }
+
+    .Men ul {
+        justify-content: center;
+        column-gap: 34px;
+    }
+
+    .Men ul li a {
+        font-size: 25px;
+    }
+
+    #ullamco {
+        padding: 25px 0;
+    }
+
+    .col-footer {
+        width: 33.3%;
+    }
+
+    .col-exercit {
+        width: 33.3%;
+    }
+
+    .col-hell {
+        width: 33.3%;
+    }
+
+    .col-bags {
+        width: 100%;
+    }
+
+    .exercit h3 {
+        padding: 0 0 10px 0;
+    }
+
+    .footer p {
+        padding: 0 0 10px 0;
+        line-height: 24px;
+    }
+
+    .jhep span {
+        padding: 0 0 10px 0;
+    }
+
+    .kilet h3 {
+        padding: 0 0 10px 0;
+    }
+
+    .cloth span {
+        margin: -18px 0 0 0;
+    }
+
+    .cloth h3 {
+        font-size: 27px;
+    }
+
+    .latext h3 {
+        font-size: 45px;
+    }
+
+    .late {
+        margin: -25px 0 0 0;
+    }
+
+    #lina {
+        padding: 30px 0 50px 0;
+    }
+
+    .magna {
+        row-gap: 2px;
+    }
+
+    .magna ul {
+        margin: 10px 0 0 0;
+    }
+
+}
+
+@media screen and (max-width:767px) {
+    .col-card {
+        width: 100%;
+    }
+
+    .magna h3 {
+        font-size: 36px;
+    }
+
+    .latext h3 {
+        font-size: 42px;
+    }
+
+    .col-banner {
+        width: 100%;
+        text-align: center;
+    }
+
+    .col-dolor {
+        width: 100%;
+        justify-content: center;
+        margin: 40px 0 0 0;
+    }
+
+    .banner-text h1 {
+        font-size: 36px;
+        line-height: 40px;
+    }
+
+
+    .banner-text p {
+        line-height: 24px;
+    }
+
+    .col-free {
+        width: 33.3%;
+    }
+
+    .free p {
+        margin: -10px 0 0 0;
+    }
+
+    .col-minim {
+        width: 50%;
+    }
+
+    .col-latext {
+        text-align: center;
+    }
+
+    .minim {
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .text {
+        margin: 0 auto;
+    }
+
+    .nsequa h3 {
+        font-size: 45px;
+        margin: -15px 0 0 0;
+    }
+
+    .nsequa ul li {
+        font-size: 44px;
+    }
+
+    .col-collection {
+        width: 100%;
+    }
+
+    .lect {
+        width: 85%;
+        margin: 0 auto;
+    }
+    .Men ul li a {
+        font-size: 24px;
+    }
+
+    .collection h3 {
+        font-size: 28px;
+        line-height: 35px;
+    }
+
+    .col-footer {
+        width: 50%;
+    }
+
+    .col-exercit {
+        width: 50%;
+    }
+
+    .col-hell {
+        width: 50%;
+    }
+
+    .col-bags {
+        width: 50%;
+    }
+
+    .policy {
+        flex-wrap: wrap;
+        justify-content: center;
+        column-gap: 100px;
+        row-gap: 10px;
+    }
+
+    .policy ul {
+        flex-wrap: wrap;
+        justify-content: center;
+        row-gap: 10px;
+        margin: 20px 0 0 0;
+    }
+
+    .policy a {
+        margin: 20px 0 0 0;
+    }
+
+    .cloth h3 {
+        font-size: 26px;
+    }
+
+    .cloth span {
+        margin: -20px 0 0 0;
+    }
+
+    .col-nostrud {
+        width: 100%;
+    }
+
+    .col-veni {
+        width: 100%;
+    }
+
+    .pixal .slick-dots {
+        bottom: 71px;
+    }
+    .fashion h5 {
+        font-size: 28px;}
+
+    .fashion h1 {
+        font-size: 34px;
+    }
+    .pixal .kool img {
+        height: 650px;
+    }
+    .col-cloth {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width:575px) {
+    .effect img {width: 50%;}
+    .effect{text-align: center;}
+    .col-cloth {
+        width: 100%;
+    }
+    .cloth{
+width: 50%;
+margin: 0 auto;
+    }
+    .banner-text h1 {
+        font-size: 34px;
+    }
+
+    #banner {
+        padding: 70px 0 182px 0;
+    }
+
+    .banner-text p {
+        line-height: 22px;
+    }
+
+    .col-free {
+        width: 50%;
+    }
+
+    .lina {
+        max-width: 430px;
+        height: 430px;
+    }
+
+    .lina img {
+        padding: 19px 0 0 34px;
+    }
+
+    .nsequa h3 {
+        font-size: 40px;
+    }
+
+    .nsequa ul li {
+        font-size: 40px;
+    }
+
+    .boy-now {
+        width: 150px;
+        height: 45px;
+    }
+
+    .latext h3 {
+        font-size: 40px;
+    }
+
+  
+
+    .Men ul li a {
+        font-size: 22px;
+    }
+
+    .collection h3 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+
+    .cloth h3 {
+        font-size: 25px;
+    }
+
+    .cloth span {
+        margin: -25px 0 0 0;
+    }
+
+    .magna h3 {
+        font-size: 32px;
+    }
+
+    .joopese {
+        left: 138px;
+    }
+
+    .joopese .fa-circle {
+        padding: 0 7px 0 0;
+    }
+
+    .dolore {
+        padding: 10px;
+    }
+
+    #contact_form .container {
+        max-width: 100%;
+    }
+
+
+    form .user__details .input__box {
+        margin-bottom: 15px;
+        width: 100%;
+    }
+
+    form .gender__details .category {
+        width: 100%;
+    }
+
+    .container form .user__details {
+        max-height: 300px;
+        overflow-y: scroll;
+    }
+
+    .user__details::-webkit-scrollbar {
+        width: 0;
+    }
+    .pixal .slick-dots {
+        bottom: 36px;
+    }
+   
+    .pixal .slick-dots li {
+        margin: 0 22px;
+    }
+}
+
+@media screen and (max-width:479px) {
+    .pixal .slick-dots {
+        bottom: 25px;
+    }
+   
+    .pixal .slick-dots li {
+        margin: 0 10px;
+    }
+    .dolor {
+        max-width: 330px;
+        height: 330px;
+    }
+
+    .banner-text h1 {
+        font-size: 32px;
+        padding: 0;
+    }
+
+    #banner {
+        padding: 50px 0 182px 0;
+    }
+
+    .col-minim {
+        width: 100%;
+    }
+
+    .col-free {
+        width: 100%;
+        text-align: center;
+    }
+
+    .free p {
+        margin: 0 auto;
+    }
+
+    .lina {
+        max-width: 327px;
+        height: 327px;
+    }
+
+    .lina img {
+        height: 331px;
+    }
+
+    .veniam ul {
+        flex-wrap: wrap;
+        row-gap: 30px;
+    }
+
+    .Jeans ul {
+        flex-wrap: wrap;
+        row-gap: 30px;
+    }
+
+    .nsequa h3 {
+        font-size: 31px;
+    }
+
+    .nsequa ul li {
+        font-size: 35px;
+    }
+
+    .boy-now {
+        width: 140px;
+        height: 40px;
+        font-size: 16px;
+    }
+
+    .latext h3 {
+        font-size: 35px;
+    }
+
+    .Men ul li a {
+        font-size: 20px;
+    }
+
+    .pret img {
+        width: 100%;
+        height: 231px;
+    }
+
+    .pret {
+        padding: 51px 0 0 0;
+    }
+
+    .collection {
+        max-width: 200px;
+        text-align: left;
+    }
+
+    .lect {
+        width: 100%;
+    }
+
+    .collection h3 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    .col-footer {
+        width: 100%;
+        text-align: center;
+    }
+
+    .hyper form {
+        margin: 0 auto;
+    }
+
+    .col-exercit {
+        width: 100%;
+        text-align: center;
+    }
+
+    .col-hell {
+        width: 100%;
+        text-align: center;
+    }
+
+    .col-bags {
+        width: 100%;
+        text-align: center;
+    }
+
+    .hyper ul {
+        justify-content: center;
+        margin: 30px 0 0 0;
+    }
+
+    .jhang {
+        justify-content: center;
+    }
+
+    .exercit h3 {
+        padding: 0;
+    }
+
+    .cloth h3 {
+        font-size: 22px;
+    }
+
+    .dolor ul li:nth-child(2) {
+        padding: 5px 0 0 0;
+    }
+
+    .magna h3 {
+        font-size: 23px;
+    }
+
+    .policy ul {
+        margin: 0 0 0 0;
+    }
+}

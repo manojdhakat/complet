@@ -1,0 +1,472 @@
+@media screen and (max-width:1899px) {
+    .beanner-text h1 {
+font-size: 40px;
+    }
+    .slider .slick-dots {
+        bottom: 88px;}
+
+}
+@media screen and (max-width:1599px) {
+    .maindown .down>ul>li>a{
+        border-top: 2px solid red;
+        padding: 10px 0;
+    width: 100%;}
+    .glad .visit ul {
+        justify-content: flex-start;
+    }
+    .down{
+        width: 100%;
+    }
+    #creat {
+        margin: 13px 0;
+    }
+
+    .stem {
+        margin: -134px 0 60px 0;
+    }
+
+    .toggle {
+        display: block;
+
+    }
+
+    .learning>li>a::after {
+        background-color: aliceblue;
+        top: 34px;
+    }
+    .glad {
+        width: 100%;
+        display: none;
+        position: relative;
+        top: 0;
+        left: 0;
+        visibility: visible;
+        opacity: 1;
+        height: 0px;
+        transition: all ease 0.2s;
+        transition: 0.5s;
+    }
+
+    .learning>li>a::after {
+        display: none;
+    }
+    .learning>li.active .glad{display:block;height: 100%;}
+    .learning>li>a:hover {
+        color: #000 !important;
+    }
+
+    .maindown {
+        align-items: left;
+        column-gap: 55px;
+        flex-direction: column;
+    }
+    .down p{
+        padding: 20px 0;
+    }
+    .learning {
+        width: 100%;
+        position: fixed;
+        top:170px;
+        padding: 0 0 0 27px;
+        flex-direction: column;
+        background: rgb(227, 181, 0);
+        opacity: 0;
+        visibility: hidden;
+        right: -100%;
+        transition: 0.5s;
+    }
+    
+    .learning.show {
+        opacity: 1 !important;
+        visibility: visible !important;
+        right: 0;
+        display: block;
+        overflow: auto;
+        padding: 0px;
+        bottom: 0;
+    }
+
+    .toggle.mobile {
+        padding: 0 17px;
+        background-color: black;
+        height: 58px;
+        width: 71px;
+        border-radius: 60px;
+        margin: 0;
+    }
+
+    .learning>li>a {
+        padding: 14px 20px;
+        width: 100%;
+        color: #000;
+    }
+
+    .leader {
+        row-gap: 20px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .world h2 {
+        font-size: 37px;
+    }
+}
+
+@media screen and (max-width:1399px) {
+    .slider .slick-dots {
+        max-width: 300px;
+        text-align: center;
+       }
+    .position-abosolute {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        text-align: center;
+    }
+    .lived {
+        padding: 0 15px 0 15px;
+        margin: 0 15px 0 0;
+    }
+
+    .tomorrow {
+        margin: 20px 0 0 0;
+        padding: 0 15px 0 15px !important;
+    }
+
+    .creat-text .future {
+        margin: 0 0 0 -201px;
+    }
+
+    .creat-text ul li {
+        padding: 30px 0 25px 114px;
+    }
+
+    .creat-text .future h2,
+    .creat-text .future h2 span,
+    .creat-text .future h2 em {
+        font-size: 34px;
+    }
+}
+
+@media screen and (max-width:1199px) {
+    .learning {
+
+        top:183px;}
+    .world h2 {
+        margin: 0;
+    }
+
+    .header-top .first p {
+        line-height: 22px;
+    }
+
+    #road {
+
+        height: 575px;
+    }
+
+    .happening {
+        padding: 0 0 11px 0;
+    }
+
+    .happening h2 {
+        padding: 0;
+    }
+
+    .happening h2,
+    .happening h2 em span {
+
+        font-size: 40px;
+    }
+
+    .unique h2 {
+        font-size: 40px;
+        padding: 23px 0 0 0;
+    }
+
+    .lifetime ul li:nth-child(2) {
+        top: 16px;
+        right: 384px;
+    }
+
+    .lifetime ul li:nth-child(1) {
+        top: 125px;
+        right: 234px;
+    }
+
+    .lifetime ul li:nth-child(4) {
+        right: 424px;
+    }
+
+    .lifetime ul li {
+        width: 140px;
+        height: 140px;
+    }
+
+    .creat-text .future h2,
+    .creat-text .future h2 span,
+    .creat-text .future h2 em {
+        line-height: 38px;
+    }
+
+    .creat-text ul li {
+        font-size: 20px;
+    }
+
+    .img img {
+
+        height: 455px;
+    }
+}
+
+@media screen and (max-width:991px) {
+    .stem h2, .stem h2 span {
+       
+        font-size: 57px;
+        line-height: 72px;}
+    .coder {
+        justify-content: center;
+    }
+
+    .refress {
+        width: 706px;
+        height: 440px;
+    }
+
+    .world h3 {
+        padding: 24px 0 27px 0;
+    }
+
+    .map ul {
+        row-gap: 6px;
+        justify-content: end;
+    }
+
+    .unique h2 {
+        font-size: 38px;
+    }
+
+    .unique p {
+        text-align: center;
+    }
+
+    .creat-text .future h2,
+    .creat-text .future h2 span,
+    .creat-text .future h2 em {
+        font-size: 32px;
+    }
+
+    .lifetime ul li {
+        width: 141px;
+        height: 58px;
+    }
+
+    .lifetime ul li:nth-child(1) {
+        top: 57px;
+        right: 169px;
+    }
+
+    .lifetime ul li:nth-child(2) {
+        top: 16px;
+        right: 44px;
+    }
+
+    .lifetime ul li:nth-child(3) {
+        top: 181px;
+        right: 32px;
+    }
+
+    .lifetime ul li:nth-child(4) {
+        right: 176px;
+        top: 143px;
+    }
+
+    .lifetime ul li:nth-child(5) {
+        top: 250px;
+        right: 27px;
+    }
+
+    .lifetime ul li:nth-child(6) {
+        top: 98px;
+        right: 37px;
+    }
+
+    .investment img {
+        width: 580px;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .learning {
+        top: 215px;
+    }
+    .refress {
+        width: 500px;
+        height: 400px;
+    }
+    .glad .visit ul li a{
+        margin: 10px 0 0 0;
+    }
+    .glad .visit ul {
+      
+        column-gap:10px;
+        flex-wrap: wrap-reverse;
+    }
+    .investment img {
+        width: 413px;
+    }
+
+    .footer-bottom ul {
+        flex-wrap: wrap;
+    }
+
+    #road {
+
+        height: 360px;
+    }
+
+    .happening h2,
+    .happening h2 em span {
+        font-size: 25px;
+        line-height: 50px;
+    }
+
+    .happening span {
+        font-size: 20px;
+    }
+
+    .woman {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .unique p {
+
+        padding: 11px 0 28px 0;
+    }
+
+    .unique {
+        padding: 10px 0 0 0;
+    }
+
+    .unique h2 {
+        font-size: 32px;
+    }
+
+    .dreams {
+        position: absolute;
+        top: 0;
+        left: 50%;
+        transform: translatex(-50%);
+        background-color: transparent;
+        text-align: center;
+    }
+
+    .lifetime ul li {
+        bottom: 0px;
+        left: 0;
+    }
+
+    .lifetime ul li:nth-child(1) {
+        top: 480px;
+        left: 164px;
+        transform: rotate(271deg);
+    }
+
+    .lifetime ul li:nth-child(2) {
+        top: 16px;
+        left: 13px;
+    }
+
+    .lifetime ul li:nth-child(3) {
+        top: 480px;
+        left: 80px;
+        transform: rotate(270deg);
+    }
+
+    .lifetime ul li:nth-child(4) {
+        left: -8px;
+        top: 480px;
+        transform: rotate(270deg);
+    }
+
+    .lifetime ul li:nth-child(5) {
+        top: 480px;
+        left: 248px;
+        transform: rotate(270deg);
+    }
+
+    .lifetime ul li:nth-child(6) {
+        bottom: 233px;
+        left: 17px;
+    }
+
+    .stem h2,
+    .stem h2 span {
+        font-size: 41px;
+        line-height: 52px;
+    }
+    .stem p {
+        padding-top: 0;
+    }
+
+    .creat-text {
+        display: none;
+    }
+
+    .enabling {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:575px) {
+
+.refress-text h1{margin-bottom: 0;}
+    .refress {
+        width: 402px;
+        height: 276px;
+    }
+    .refress-text p{line-height: 29px}
+    .stem ul {
+        column-gap: 13px;
+    }
+
+    .stem ul {
+
+        justify-content: center;
+        flex-wrap: wrap;
+        row-gap: 26px;
+    }
+
+    .unique h2 {
+        font-size: 27px;
+    }
+
+    .stem h2 {
+        font-size: 31px;
+    }
+    .beanner-text h1 {
+        font-size: 24px;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .learning {
+        top: 230px;
+    }
+
+    .stem .leadership::before,
+    .stem .leadership::after {
+        display: none;
+    }
+
+    .stem {
+        margin: 0 0 23px 0;
+    }
+
+    .leadership {
+        display: none;
+    }
+}

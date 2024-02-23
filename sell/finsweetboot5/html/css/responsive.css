@@ -1,0 +1,325 @@
+@media screen and (max-width:1399px) {
+    .startup-pic::after {
+        left: 473px;
+    }
+
+    .strategy-btn::before {
+        display: none;
+    }
+
+    .strategy-btn::after {
+        display: none;
+    }
+}
+
+@media screen and (max-width:1199px) {
+    .topnav ul li a {
+        padding: 0 20px !important;
+    }
+
+    .banner-pic img {
+        height: 513px;
+        top: 225px;
+        left: -190px;
+    }
+
+    .banner-pic::before {
+        top: 520px;
+        left: 280px;
+    }
+
+    .banner-pic:after {
+        top: 390px;
+        left: -69px;
+    }
+
+    .banner-text h1 {
+        font-size: 51px;
+    }
+
+    .startup-pic::after {
+        display: none;
+    }
+
+    .energy-text {
+        padding: 120px 24px;
+    }
+
+    .energy-text p {
+        font-size: 42px;
+    }
+    .energy-pic img {
+        height: 508px;
+    }
+    .finsweet-text h2 {
+        font-size: 41px;
+    }
+    .finsweet-text {
+        padding: 34px 0;
+    }
+}
+
+@media screen and (max-width:991px) {
+    .toppnav{
+        position: absolute;
+        top: 70px;
+        left: 0;
+        width: 100%;
+        background-color: #F58A07;
+    }
+    #banner-main {
+        overflow: unset;
+    }
+
+    .banner-pic {
+        display: none;
+    }
+
+    .startup-pic img {
+        height: 520px;
+    }
+
+    .start-up-text h2 {
+        font-size: 38px;
+    }
+
+    .start-up-text {
+        padding: 25px 0;
+    }
+
+    .award-recieve-text h3 {
+        font-size: 20px;
+    }
+
+    .award-m {
+        padding: 9px 0;
+    }
+
+    .start-up-text h2 {
+        font-size: 36px;
+    }
+
+    .client-text p {
+        padding-top: 10px;
+        margin-bottom: 25px;
+    }
+
+    .client-text h2 {
+        font-size: 36px;
+    }
+    .energy-pic img {
+        height: 418px;
+    }
+    .energy-text {
+        padding: 90px 14px;
+    }
+    .energy-text p {
+        font-size: 34px;
+    }
+    .finsweet-text h2 {
+        font-size: 31px;
+    }
+    .finsweet-text {
+        padding: 3px 0;
+    }
+
+}
+
+@media screen and (max-width:767px) {
+    #banner-main {
+        padding: 60px 0;
+    }
+
+    .banner-text h1 {
+        font-size: 58px;
+    }
+
+    .banner-text p {
+        padding: 24px 0;
+    }
+
+    .banner-text .our {
+        padding: 16px 21px;
+    }
+
+    .companies-content {
+        margin-top: 5px;
+    }
+
+    .companies-help-text h2 {
+        font-size: 35px;
+        line-height: 47px;
+    }
+
+    #companies-main {
+        padding: 40px 0;
+    }
+
+    .buisness-m {
+        margin-top: 30px;
+    }
+
+    .buisness-card {
+        margin-top: 30px;
+    }
+
+    #software-main {
+        padding: 40px 0;
+    }
+
+    .software-text h2 {
+        font-size: 35px;
+    }
+
+    .software-m {
+        margin-top: 30px;
+    }
+
+    #startup-main {
+        padding: 40px 0;
+    }
+
+    .start-up-text h2 {
+        font-size: 35px;
+    }
+
+    .startup-pic img {
+        height: 520px;
+        display: none;
+    }
+
+    .client-picture img {
+        display: none;
+    }
+
+    .client-picture::after {
+        display: none;
+    }
+
+    .client-text {
+        padding-top: 25px;
+    }
+    #energy-main {
+        padding: 40px 0;
+    }
+    #finsweet-main {
+        padding: 40px 0;
+        margin-bottom: 39px;
+    }
+    .finsweet-picture {
+        margin-top: 30px;
+    }
+    .strategy-btn ul li {
+        padding-right: 19px;
+    }
+    .btn-c{
+        flex-direction: column;
+        gap: 30px;
+    }
+    .latest-text h2 {
+        font-size: 19px;
+    }
+    #latest-blog-main {
+        padding: 40px 0;
+    }
+    .digital-text{
+        padding: 15px 10px;
+    }
+    .digitalize-card h3{
+        font-size: 18px;
+    }
+    .solution-f h4 {
+        font-size: 22px;
+        margin-top: 23px;
+    }
+    .company-text ul li a {
+        padding: 8px 0;
+    }
+    .right-f-text ul li {
+        padding-left: 4px;
+    }
+    .footer-top {
+        padding: 40px 0;
+    }
+    .company-text {
+        margin-top: 25px;
+    }
+    .form-text {
+        margin-top: 25px;
+    }
+    .energy-text {
+        padding: 40px 14px;
+    }
+    .client-picture {
+        padding-top: 0px;
+    }
+    .right-f-text {
+        justify-content: start !important;
+    }
+}
+
+@media screen and (max-width:575px) {
+    .header-top {
+        padding: 12px 0;
+    }
+
+    .banner-text h1 {
+        font-size: 36px;
+        line-height: 42px;
+    }
+
+    .banner-text p {
+        line-height: 28px;
+        padding: 30px 0;
+    }
+
+    .clone-btn .btn {
+        display: none;
+    }
+
+    .banner-text .all {
+        font-size: 15px;
+        margin-left: 11px;
+    }
+
+    .companies-content ul li {
+        padding-right: 19px;
+    }
+
+    .companies-help-text h2 {
+        font-size: 23px;
+        line-height: 30px;
+    }
+
+    .software-text h2 {
+        font-size: 23px;
+    }
+
+    .start-up-text p {
+        padding-top: 2px;
+    }
+
+    .award-recieve-text h4 {
+        font-size: 25px;
+    }
+    .finsweet-text h2 {
+        font-size: 29px;
+    }
+    .start-up-text h2 {
+        font-size: 19px;
+    }
+    .client-text h2 {
+        font-size: 19px;
+    }
+
+
+    /* .btn-c{
+        flex-direction: column;
+        gap: 20px;
+    } */
+
+    /* .award-recieve-text h3 {
+        font-size: 18px;
+    } */
+
+}
